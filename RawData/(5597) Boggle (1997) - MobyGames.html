@@ -1,0 +1,933 @@
+<!doctype html>
+<html lang="en" onclick>
+  <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DF0Y2K8D8P"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-DF0Y2K8D8P');
+    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link loading="lazy" rel="shortcut icon" href="/static/img/favicon.ico">
+    <link rel="apple-touch-icon" href="/static/img/moby-avatar.png">
+    <link rel="search" type="application/opensearchdescription+xml" href="https://www.mobygames.com/search.xml" title="MobyGames">
+    <link rel="modulepreload" href="https://www.mobygames.com/static/js/shared.8befb351.js">
+<link rel="modulepreload" href="https://www.mobygames.com/static/js/main.8df2d16f.js">
+    <link rel="stylesheet" href="https://www.mobygames.com/static/css/style.472a4b28.css">
+    <meta property="og:site_name" content="MobyGames">
+    <meta property="og:type" content="website"><meta name="description" content="A computer version of the classic word finding game. 16 lettered dice are rolled and arranged in a square. The player then has a limited amount of time to find as many words as possible in the grid. New game variations for the computer include a 4X4X4...">
+<meta property="og:description" content="A computer version of the classic word finding game. 16 lettered dice are rolled and arranged in a square. The player then has a limited amount of time to find as many words as possible in the grid. New game variations for the computer include a 4X4X4...">
+<meta property="og:image" content="https://cdn.mobygames.com/covers/673396-boggle-windows-front-cover.jpg">
+<meta property="og:title" content="Boggle (1997) - MobyGames">
+<link rel="canonical" href="https://www.mobygames.com/game/5597/boggle/">
+    <title>
+      Boggle (1997) - MobyGames
+    </title>
+  </head>
+  <body>
+  <div id="root">
+    <header>
+      <nav>
+        <ul class="navbar-menu">
+          <li class="navbar-logo">
+            <a href="/"><img src="https://www.mobygames.com/static/img/logo.37887f87.png" width="108" height="50" alt="mobygames logo" class="logo"></a>
+          </li>
+          <li class="navbar-status show-sm">
+          </li>
+          <li class="navbar-search">
+            <div class="flex-center h100">
+              <noscript class="w100">
+              <form class="navbar-form position-relative" action="/search/" accept-charset="UTF-8" method="GET">
+                <input id="search" type="search" class="form-input navbar-search-input" name="q" value="" placeholder="Search games, people, companies..." aria-label="Search">
+              </form>
+              </noscript>
+              <search s-url="/search/" a-url="/search/auto/" q="" :trending='[{"a": false, "i": "https://cdn.mobygames.com/defd9eac-af3e-11ed-86b5-02420a0001ba.webp", "name": "Ring Quest", "t": 1, "u": "https://www.mobygames.com/game/21259/ring-quest/", "y": 1985}, {"a": false, "i": "https://cdn.mobygames.com/2d623c28-7a65-11ee-8eb6-02420a00012b.webp", "name": "Wedding Witch", "t": 1, "u": "https://www.mobygames.com/game/211313/wedding-witch/", "y": 2023}, {"a": false, "i": "https://cdn.mobygames.com/5466bbf4-af37-11ed-9f64-02420a0001be.webp", "name": "Deus Ex Machina", "t": 1, "u": "https://www.mobygames.com/game/47774/deus-ex-machina/", "y": 1984}, {"a": false, "i": "https://cdn.mobygames.com/4797b05c-af48-11ed-9f64-02420a0001be.webp", "name": "Jill of the Jungle: Jill Saves the Prince", "t": 1, "u": "https://www.mobygames.com/game/776/jill-of-the-jungle-jill-saves-the-prince/", "y": 1992}, {"a": false, "i": "https://cdn.mobygames.com/6145e0d6-af3f-11ed-86b5-02420a0001ba.webp", "name": "Castlevania: Lament of Innocence", "t": 1, "u": "https://www.mobygames.com/game/11515/castlevania-lament-of-innocence/", "y": 2003}, {"a": false, "i": "https://cdn.mobygames.com/8ede4c22-af12-11ed-98f0-02420a00019c.webp", "name": "WarCraft II: Tides of Darkness", "t": 1, "u": "https://www.mobygames.com/game/1339/warcraft-ii-tides-of-darkness/", "y": 1995}, {"a": false, "i": "https://cdn.mobygames.com/c7e02afc-546e-11ee-a601-02420a0001c2.webp", "name": "Unity Technologies ApS", "t": 2, "u": "https://www.mobygames.com/company/20551/unity-technologies-aps/"}, {"a": false, "i": "https://cdn.mobygames.com/5223cce4-bc82-11ed-a23f-02420a000186.webp", "name": "ORIGIN Systems, Inc.", "t": 2, "u": "https://www.mobygames.com/company/11/origin-systems-inc/"}, {"a": false, "i": "https://cdn.mobygames.com/57fe6cc4-af0c-11ed-8fcc-02420a00019c.webp", "name": "Louise Bell", "t": 3, "u": "https://www.mobygames.com/person/237677/louise-bell/"}, {"a": false, "i": "https://cdn.mobygames.com/e8d4f772-7b30-11ee-9fc4-02420a00012e.webp", "name": "Anita Sarkeesian", "t": 3, "u": "https://www.mobygames.com/person/636105/anita-sarkeesian/"}]'></search>
+            </div>
+          </li>
+          <li class="navbar-links">
+            <ul class="list-group flex flex-space-between h100">
+              <li class="navbar-link">
+                <div class="flex-center h100">
+                  <b class="no-select">Browse</b>
+                </div>
+                <ul class="navbar-dropdown">
+                  <li><a href="/random/" rel="nofollow">Random</a></li>
+                  <li><a href="/platform/">Platforms</a></li>
+                  <li><a href="/game/" rel="nofollow">Games</a></li>
+                  <li><a href="/company/">Companies</a></li>
+                  <li><a href="/person/">People</a></li>
+                  <li><a href="/group/">Groups</a></li>
+                  <li><a href="/genre/">Genres</a></li>
+                  <li><a href="/attributes/tech-specs/">Attributes</a></li>
+                  <li><a href="/critic/">Critics</a></li>
+                  <li><a href="/this-day-in-gaming/">This Day</a></li>
+                  <li><a href="/stats/">Stats</a></li>
+                </ul>
+              </li>
+              <li class="navbar-link">
+                <div class="flex-center h100">
+                  <b class="no-select">Contribute</b>
+                </div>
+                <ul class="navbar-dropdown">
+                  <li><a href="/most-wanted/" rel="nofollow" class="link-contributor">Most Wanted</a></li>
+                  <li><a href="/contribute/missing-games/" rel="nofollow" class="link-contributor">Missing Games</a></li>
+                  <li><a href="/contribute/game/" rel="nofollow" class="link-contributor">Add Game</a></li>
+                  <li><a href="/info/contribute/">Instructions</a></li>
+                  <li><a href="/info/standards/">Standards</a></li>
+                </ul>
+              </li>
+              <li class="navbar-link">
+                <div class="flex-center h100">
+                  <b class="no-select">Community</b>
+                </div>
+                <ul class="navbar-dropdown">
+                  <li><a href="/leaderboard/">Contributors</a></li>
+                  <li><a href="/forum/">Forums</a></li>
+                  <li><a href="/feed/player-reviews/">Reviews</a></li>
+                  <li><a href="https://discord.gg/8zWGTQp" rel="nofollow" class="link-external">Discord</a></li>
+                  <li><a href="https://twitter.com/MobyGames" rel="nofollow" class="link-external">Twitter</a></li>
+                </ul>
+              </li>
+              
+              <li class="navbar-link navbar-lights flex-center" tabindex="-1" aria-hidden="true">
+                <toggle-dark-mode :is-dark="false"></toggle-dark-mode>
+              </li>
+              <li class="navbar-profile navbar-link">
+                
+                <div class="flex-center h100">
+                  <b class="no-select">
+                    <img src="/static/img/moby-avatar.png" width="38" height="38" alt="user avatar" class="avatar avatar-sm hide-sm">
+                    Login
+                  </b>
+                </div>
+                <ul class="navbar-dropdown dropdown-profile">
+                  <li><a href="/user/login/">Login</a></li>
+                  <li><a href="/user/register/">Register</a></li>
+                </ul>
+                
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="bg-notice">
+      <div class="container pt-1 pb-1 statusbar-grid">
+        <div class="statusbar-message">
+          👻 <a href="/game/210237/haunted-house/">Haunted House</a>: An Atari classic reimagined!
+        </div>
+      </div>
+    </div>
+    <main id="main">
+      
+<div class="flex flex-space-between">
+  <div class="mb">
+    <h1 class="mb-0">Boggle</h1>
+    
+  </div>
+  <div class="flex flex-end">
+    <player-tools
+      csrf-token="1f8c8c56-79bb-4895-ab35-c1eaae8fabbf"
+      :authenticated="false"
+      action-url="/contribute/game/5597/user-rating/post/"
+      list-add-url="/user/list/add/"
+      list-action-url="#"
+      playlist-url="#"
+      login-url="/user/login/"
+      :platforms='[{"asin": null, "back_cover": null, "ebay_id": null, "id": 3, "main_cover": {"height": 800, "image_url": "https://cdn.mobygames.com/covers/673396-boggle-windows-front-cover.jpg", "thumbnail_height": 440, "thumbnail_url": "https://cdn.mobygames.com/fdf85514-ab6e-11ed-96f9-02420a00019a.webp", "thumbnail_width": 476, "width": 865}, "name": "Windows", "release_date": "1997", "releases": [{"countries": [{"country_code": "US", "flag": "https://cdn.mobygames.com/9f436050-ab5e-11ed-b6d6-02420a000150.gif"}], "release_date": "1997"}, {"countries": [{"country_code": "DE", "flag": "https://cdn.mobygames.com/9f8eb00a-ab5e-11ed-b6d6-02420a000150.gif"}], "release_date": "1999"}, {"countries": [{"country_code": "NZ", "flag": "https://cdn.mobygames.com/b258face-ab5e-11ed-b6d6-02420a000150.gif"}, {"country_code": "AU", "flag": "https://cdn.mobygames.com/b24379d8-ab5e-11ed-b6d6-02420a000150.gif"}], "release_date": "Dec 10th, 2004"}]}]'
+      :game-id="5597"
+      :user-id="0"
+      :user-score="0"
+      :user-platform="3"
+      :user-reviews='[]'
+      :user-lists='[]'
+      cover-url="https://cdn.mobygames.com/fdf85514-ab6e-11ed-96f9-02420a00019a.webp">
+    </player-tools>
+  </div>
+</div>
+
+<ul class="nav-tabs mb">
+  <li>
+    <a class="nav-link active" href="/game/5597/boggle/">Overview</a>
+  </li>
+  <li>
+  
+  <a class="nav-link" href="/game/5597/boggle/credits/">Credits</a>
+</li>
+
+  <li>
+  
+  <a class="nav-link" href="/game/5597/boggle/reviews/">Reviews</a>
+</li>
+
+  <li>
+  
+  <a class="nav-link" href="/game/5597/boggle/covers/">Covers</a>
+</li>
+
+  <li>
+  
+  <a class="nav-link" href="/game/5597/boggle/screenshots/">Screenshots</a>
+</li>
+
+  <li>
+  
+  <a class="nav-link disabled" href="/game/5597/boggle/videos/">Videos</a>
+</li>
+
+  <li>
+    <a class="nav-link" href="/game/5597/boggle/promo/">Promos</a>
+  </li>
+  <li>
+  
+  <a class="nav-link" href="/game/5597/boggle/trivia/">Trivia</a>
+</li>
+
+  <li>
+  
+  <a class="nav-link" href="/game/5597/boggle/releases/">Releases</a>
+</li>
+
+  <li>
+    <a class="nav-link" href="/game/5597/boggle/specs/">Specs</a>
+  </li>
+  <li>
+  
+  <a class="nav-link" href="/game/5597/boggle/ip-rights-licensing/">IP</a>
+</li>
+
+  <li>
+  
+  <a class="nav-link" href="/game/5597/boggle/stores/">Prices</a>
+</li>
+
+  <li>
+  
+  <a class="nav-link" href="/game/5597/boggle/forum/">Forum</a>
+</li>
+
+  <li>
+  
+  <a class="nav-link link-contributor" href="/game/5597/boggle/contribute/" rel="nofollow">Contribute</a>
+</li>
+
+</ul>
+
+<div id="infoBlock" class="game-info mb">
+  <div class="info-box text-center">
+    <div>
+      <a href="https://www.mobygames.com/game/5597/boggle/cover/group-125792/cover-330176/" id="cover">
+        <img src="https://cdn.mobygames.com/fdf85514-ab6e-11ed-96f9-02420a00019a.webp" width="476" height="440" alt="box cover" class="img-box">
+      </a>
+      
+        <br>
+        <cover-swap-links :front-image="{'url': 'https://www.mobygames.com/game/5597/boggle/cover/group-125792/cover-330176/', 'image': 'https://cdn.mobygames.com/fdf85514-ab6e-11ed-96f9-02420a00019a.webp' }"
+                          :back-image="{'url': '', 'image': '' }"
+                          :num-covers="18"
+                          more-url="/game/5597/boggle/covers/">
+        </cover-swap-links>
+      </div>
+    </div>
+  <div class="info-release">
+    <dl class="metadata">
+      <dt>Released</dt>
+      <dd>
+        <a href="/game/5597/boggle/releases/#windows">
+          1997
+        </a>
+        on
+        <a href="/platform/windows/">
+          Windows
+        </a>
+      </dd>
+      <dt>Credits</dt>
+      <dd>
+        <a href="/game/5597/boggle/credits/windows/">38 people</a>
+      </dd>
+      
+      <dt>Publishers</dt>
+        <dd>
+          <ul id="publisherLinks" class="list-group toggle-long-text mb-0">
+            <li>
+              
+              <a href="https://www.mobygames.com/company/202/atari-interactive-inc/" v-popover='{ id: 202, type: 2, name: "Hasbro Interactive, Inc.", position: "left" }'>Hasbro Interactive, Inc.</a>
+              
+            </li>
+            <li>
+              
+              <a href="https://www.mobygames.com/company/6740/hasbro-interactive-gmbh/" v-popover='{ id: 6740, type: 2, name: "Hasbro Interactive GmbH", position: "left" }'>Hasbro Interactive GmbH</a>
+              
+            </li>
+            <li>
+              
+              <a href="https://www.mobygames.com/company/34/atari-europe-sasu/" v-popover='{ id: 34, type: 2, name: "Atari Europe S.A.S.U.", position: "left" }'>Atari Europe S.A.S.U.</a>
+              
+            </li>
+            </ul>
+          <toggle-long-text element-id="publisherLinks" :small-text="true" :single-line-per-item="true"></toggle-long-text>
+        </dd>
+      <dt>Developers</dt>
+        <dd>
+          <ul id="developerLinks" class="list-group toggle-long-text mb-0">
+            <li>
+              
+              <a href="https://www.mobygames.com/company/1222/third-i-productions/" v-popover='{ id: 1222, type: 2, name: "Third-i Productions", position: "left" }'>Third-i Productions</a>
+              
+            </li>
+            <li>
+              
+              <a href="https://www.mobygames.com/company/5696/pca-inc/" v-popover='{ id: 5696, type: 2, name: "PCA Inc.", position: "left" }'>PCA Inc.</a>
+              
+            </li>
+            </ul>
+          <toggle-long-text element-id="developerLinks" :small-text="true" :single-line-per-item="true"></toggle-long-text>
+        </dd>
+      </dl>
+  </div>
+  <div class="info-score">
+    <dl class="metadata">
+      <dt><span v-tooltip="'Overall score and rank compared to all games with rankings'">Moby Score</span></dt>
+      <dd>
+      
+  <div class="mobyscore" style="background: #00ff00;" v-tooltip="'Based on a bayesian average of critic and player ratings'">
+    7.0
+  </div>
+      <small class="text-muted">#12,972 of 164K</small>
+      </dd>
+      <dt>Critics</dt>
+      <dd>
+        67%
+        <small class="text-muted" v-tooltip="'6 ratings'">(<a href="/game/5597/boggle/reviews/">6</a>)</small>
+      </dd>
+      <dt>Players</dt>
+      <dd>
+        
+  
+    
+  
+  <span class="stars stars-sm" style="--rating: 5" v-tooltip="'5 stars'"></span>
+        <small class="text-muted" v-tooltip="'1 ratings'">(<a href="/game/5597/boggle/reviews/">1</a>)</small>
+      </dd>
+      <dt>Ranking</dt>
+      <dd>
+        <ul id="platformRankings" class="list-group toggle-long-text mb-0">
+            <li class="text-nowrap-desktop"><span v-tooltip="'#4,713 of 80,814 Windows games'">#4,713</span> on <a href="/platform/windows/">Windows</a></li>
+        </ul>
+        <toggle-long-text element-id="platformRankings" :small-text="true" :single-line-per-item="true"></toggle-long-text>
+      </dd>
+      <dt>Collected By</dt>
+      <dd>20 players</dd>
+    </dl>
+  </div>
+  <div class="info-genres">
+    <dl class="metadata"><dt>Genre</dt>
+        <dd><a href="https://www.mobygames.com/genre/puzzle/">Puzzle</a><br><a href="https://www.mobygames.com/genre/strategy/">Strategy / tactics</a><br></dd><dt>Perspective</dt>
+        <dd><a href="https://www.mobygames.com/genre/diagonal-down/">Diagonal-down</a><br></dd><dt>Gameplay</dt>
+        <dd><a href="https://www.mobygames.com/genre/board_games/">Board game</a><br><a href="https://www.mobygames.com/genre/word-construction/">Word construction</a><br></dd><dt>Misc</dt>
+        <dd><a href="https://www.mobygames.com/genre/licensed-title/">Licensed</a><br></dd></dl>
+  </div>
+  <div class="info-specs">
+    <dl class="metadata">
+      <dt>ESRB Rating</dt>
+        <dd>
+            <a href="/attributes/attribute/91/">Kids to Adults</a>
+          
+        </dd></dl>
+    <dl class="metadata">
+      
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <dt>Business Model</dt>
+          <dd>
+              <a href="/attributes/attribute/124/">Commercial</a>
+          </dd>
+          
+          <dt>Media Type</dt>
+          <dd>
+              <a href="/attributes/attribute/518/">CD-ROM</a>
+          </dd>
+          
+          <dt>Input Devices Supported</dt>
+          <dd>
+              <a href="/attributes/attribute/23/">Keyboard</a>, 
+              <a href="/attributes/attribute/24/">Mouse</a>
+          </dd>
+          
+          <dt>Multiplayer Options</dt>
+          <dd>
+              <a href="/attributes/attribute/123/">Internet</a>, 
+              <a href="/attributes/attribute/85/">LAN</a>, 
+              <a href="/attributes/attribute/83/">Modem</a>, 
+              <a href="/attributes/attribute/84/">Null-modem cable</a>, 
+              <a href="/attributes/attribute/156/">Same/Split-Screen</a>
+          </dd>
+          
+          <dt>Number of Offline Players</dt>
+          <dd>
+              <a href="/attributes/attribute/491/">1-4 Players</a>
+          </dd>
+          
+          <dt>Number of Online Players</dt>
+          <dd>
+              <a href="/attributes/attribute/482/">4 Players</a>
+          </dd>
+      <span class="text-nowrap">[ <a href="/game/5597/boggle/specs/">view all 12 specs</a> ]</span>
+    </dl>
+    
+    
+  </div>
+  
+    
+    
+</div>
+
+<random uri="game"></random>
+<div class="border border-1 mb">
+  <small class="text-muted">See Also</small>
+  <ul id="seeAlsoLinks" class="list-group toggle-long-text mb-0">
+    <li>
+      <a href="https://www.mobygames.com/game/167015/boggle/" rel="nofollow">
+        <span class="icon icon-game icon-game-xs" aria-hidden="true"></span>
+      </a>
+      <b><a href="https://www.mobygames.com/game/167015/boggle/" rel="nofollow">Boggle</a></b>
+      <small class="text-muted">
+        (1978 on
+          Commodore PET/CBM)
+      </small>
+    </li>
+    
+    <li>
+      <a href="https://www.mobygames.com/game/98414/boggle/" rel="nofollow">
+        <img loading="lazy" src="https://cdn.mobygames.com/af1bb4bc-c1d6-11ed-ab6b-02420a000194.webp" width="208" height="136" alt="box cover" class="img-thumbnail-box img-thumbnail-xs">
+      </a>
+      <b><a href="https://www.mobygames.com/game/98414/boggle/" rel="nofollow">Boggle</a></b>
+      <small class="text-muted">
+        (1980 on
+          Mainframe)
+      </small>
+    </li>
+    
+    <li>
+      <a href="https://www.mobygames.com/game/98350/boggle/" rel="nofollow">
+        <span class="icon icon-game icon-game-xs" aria-hidden="true"></span>
+      </a>
+      <b><a href="https://www.mobygames.com/game/98350/boggle/" rel="nofollow">Boggle</a></b>
+      <small class="text-muted">
+        (1988 on
+          Mainframe)
+      </small>
+    </li>
+    
+    <li>
+      <a href="https://www.mobygames.com/game/31087/boggle/" rel="nofollow">
+        <img loading="lazy" src="https://cdn.mobygames.com/a722bca8-af37-11ed-86b5-02420a0001ba.webp" width="218" height="136" alt="box cover" class="img-thumbnail-box img-thumbnail-xs">
+      </a>
+      <b><a href="https://www.mobygames.com/game/31087/boggle/" rel="nofollow">Boggle</a></b>
+      <small class="text-muted">
+        (1990 on
+          DOS)
+      </small>
+    </li>
+    
+    <li>
+      <a href="https://www.mobygames.com/game/47585/boggle/" rel="nofollow">
+        <img loading="lazy" src="https://cdn.mobygames.com/bd741b48-af3f-11ed-8ca8-02420a0001be.webp" width="99" height="136" alt="box cover" class="img-thumbnail-box img-thumbnail-xs">
+      </a>
+      <b><a href="https://www.mobygames.com/game/47585/boggle/" rel="nofollow">Boggle</a></b>
+      <small class="text-muted">
+        (2009 on
+          Xbox 360)
+      </small>
+    </li>
+    
+    <li>
+      <a href="https://www.mobygames.com/game/86522/boggle/" rel="nofollow">
+        <img loading="lazy" src="https://cdn.mobygames.com/69e92d7e-af35-11ed-a6d3-02420a0001ba.webp" width="136" height="136" alt="box cover" class="img-thumbnail-box img-thumbnail-xs">
+      </a>
+      <b><a href="https://www.mobygames.com/game/86522/boggle/" rel="nofollow">Boggle</a></b>
+      <small class="text-muted">
+        (2015 on
+          PlayStation 4, 
+          Xbox One)
+      </small>
+    </li>
+    </ul>
+  <toggle-long-text element-id="seeAlsoLinks" :small-text="true" :single-line-per-item="true"></toggle-long-text>
+</div>
+<div class="border border-1 text-sm mb">
+    <div class="flex flex-wrap flex-gap">
+    
+        <div>
+          <b>Buy</b>
+          <hr>
+          <a href="https://www.amazon.com/gp/search?ie=UTF8&amp;index=videogames&amp;tag=mobygames02-20&amp;keywords=Boggle Windows" rel="nofollow" class="text-nowrap-desktop link-external" target="_blank" title="">
+            
+            Amazon</a><br>
+          <a href="https://www.ebay.com/sch/i.html?_from=R40&amp;_trksid=p2380057.m570.l1313&amp;_nkw=Boggle Windows&amp;_sacat=0&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;siteid=0&amp;campid=5338937171&amp;customid=&amp;toolid=10001&amp;mkevt=1" rel="nofollow" class="text-nowrap-desktop link-external" target="_blank" title="">
+            
+            eBay</a><br>
+        </div>
+    </div>
+  <span class="text-muted">Note: We may earn an affiliate commission on purchases made via eBay or Amazon links.</span>
+</div>
+
+<section id="gameDescription">
+  <h2>
+    Description
+    <small>
+      
+        <a href="/game/5597/-/adblurbs/">official description</a>
+      
+      
+    </small>
+  </h2>
+  <div id="description-text" class="toggle-long-text">
+    <p>A computer version of the classic word finding game.  16 lettered dice are rolled and arranged in a square.  The player then has a limited amount of time to find as many words as possible in the grid.</p>
+<p>New game variations for the computer include a 4X4X4 cube of dice for finding words, a head-to-head game where players place the dice themselves before looking for words, and two tetris-like games where players must find words among onrushing Boggle dice.</p>
+  </div>
+  <toggle-long-text element-id="description-text"></toggle-long-text>
+</section>
+<section id="gameGroups">
+  <h2>Groups <a href="/contribute/game-group-game/game/5597/" class="link-contributor" rel="nofollow">+</a></h2>
+  <ul class="list-group flex flex-wrap gap-xxs">
+    <li class="badge text-ellipsis">
+      <a href="https://www.mobygames.com/group/9318/boggle-games/">Boggle games</a>
+      
+    </li>
+    <li class="badge text-ellipsis">
+      <a href="https://www.mobygames.com/group/14031/games-bundled-with-cereal-boxes/">Games bundled with cereal boxes</a>
+      
+    </li>
+    <li class="badge text-ellipsis">
+      <a href="https://www.mobygames.com/group/13101/genre-word-number-puzzle-anagram-puzzle/">Genre: Word / Number Puzzle - Anagram Puzzle</a>
+      
+    </li>
+    </ul>
+</section><h2>
+  <a href="/game/5597/boggle/screenshots/">Screenshots</a>
+  
+  <!-- a href="/contribute/game-shots/5597/" class="link-contributor">+</a-->
+</h2>
+<div id="gameShots" class="img-holder mb">
+  <a href="https://www.mobygames.com/game/5597/boggle/screenshots/windows/95479/">
+      <img loading="lazy" src="https://cdn.mobygames.com/35bb66a0-ac0d-11ed-9271-02420a000133.webp" class="img-thumbnail" width="562" height="440" alt="screenshot">
+    </a>
+  <a href="https://www.mobygames.com/game/5597/boggle/screenshots/windows/95484/">
+      <img loading="lazy" src="https://cdn.mobygames.com/356f201a-ac0d-11ed-9271-02420a000133.webp" class="img-thumbnail" width="562" height="440" alt="screenshot">
+    </a>
+  <a href="https://www.mobygames.com/game/5597/boggle/screenshots/windows/95480/">
+      <img loading="lazy" src="https://cdn.mobygames.com/360ee730-ac0d-11ed-9271-02420a000133.webp" class="img-thumbnail" width="562" height="440" alt="screenshot">
+    </a>
+  <a href="https://www.mobygames.com/game/5597/boggle/screenshots/windows/95481/">
+      <img loading="lazy" src="https://cdn.mobygames.com/36659aee-ac0d-11ed-9271-02420a000133.webp" class="img-thumbnail" width="562" height="440" alt="screenshot">
+    </a>
+  <a href="https://www.mobygames.com/game/5597/boggle/screenshots/windows/95482/" class="hide-sm">
+      <img loading="lazy" src="https://cdn.mobygames.com/36bbd9fe-ac0d-11ed-9271-02420a000133.webp" class="img-thumbnail" width="562" height="440" alt="screenshot">
+    </a>
+  </div>
+<section id="gameCredits">
+  <h2>Credits (Windows version)</h2>
+  <p class="text-sm text-muted">
+    38 People
+    (26 developers, 12 thanks)
+    
+    &middot; <a href="/game/5597/boggle/credits/windows/">View all</a>
+    
+  </p>
+  <div class="overflow-x-scroll">
+    <table class="table table-credits">
+      <tr>
+        <td valign="top">Producer</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/33688/chris-down/" v-popover='{ id: 33688, name: "Chris Down", type: 1 }' class="text-nowrap">Chris Down</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Associate Producer</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/52996/jeff-buccellato/" v-popover='{ id: 52996, name: "Jeff Buccellato", type: 1 }' class="text-nowrap">Jeff Buccellato</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Creative Director</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/10956/john-sutyak/" v-popover='{ id: 10956, name: "John Sutyak", type: 1 }' class="text-nowrap">John Sutyak</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Game Designers</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/29488/david-walls/" v-popover='{ id: 29488, name: "David Walls", type: 1 }' class="text-nowrap">David Walls</a></li>
+            <li><a href="https://www.mobygames.com/person/33688/chris-down/" v-popover='{ id: 33688, name: "Chris Down", type: 1 }' class="text-nowrap">Chris Down</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">VP of Research and Development</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/8273/tony-parks/" v-popover='{ id: 8273, name: "Tony Parks", type: 1 }' class="text-nowrap">Tony Parks</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Associate VP of Product Development</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/8286/kevin-gillespie/" v-popover='{ id: 8286, name: "Kevin Gillespie", type: 1 }' class="text-nowrap">Kevin Gillespie</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">VP of Marketing</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/8274/gary-carlin/" v-popover='{ id: 8274, name: "Gary Carlin", type: 1 }' class="text-nowrap">Gary Carlin</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Director of Marketing</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/32695/gail-l-steiner/" v-popover='{ id: 32695, name: "Gail L. Steiner", type: 1 }' class="text-nowrap">Gail L. Steiner</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Manager of Inventor Relations</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/10970/lee-mclaughlin/" v-popover='{ id: 10970, name: "Lee McLaughlin", type: 1 }' class="text-nowrap">Lee McLaughlin</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Product Manager</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/10947/steven-klein/" v-popover='{ id: 10947, name: "Steven Klein", type: 1 }' class="text-nowrap">Steven Klein</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Creative Services Manager</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/8272/steve-webster/" v-popover='{ id: 8272, name: "Steve Webster", type: 1 }' class="text-nowrap">Steve Webster</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Localization</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/187902/samantha-parker/" v-popover='{ id: 187902, name: "Samantha Parker", type: 1 }' class="text-nowrap">Samantha Parker</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Director of Quality Assurance</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/1503/michael-craighead/" v-popover='{ id: 1503, name: "Michael Craighead", type: 1 }' class="text-nowrap">Michael Craighead</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Quality Assurance</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/8276/jennifer-kaczor/" v-popover='{ id: 8276, name: "Jennifer Kaczor", type: 1 }' class="text-nowrap">Jennifer Kaczor</a></li>
+            <li><a href="https://www.mobygames.com/person/8279/jeff-grady/" v-popover='{ id: 8279, name: "Jeff Grady", type: 1 }' class="text-nowrap">Jeff Grady</a></li>
+            <li><a href="https://www.mobygames.com/person/51671/jeff-kingston/" v-popover='{ id: 51671, name: "Jeff Kingston", type: 1 }' class="text-nowrap">Jeff Kingston</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Lead tester-Europe</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/52980/richard-alexander/" v-popover='{ id: 52980, name: "Richard Alexander", type: 1 }' class="text-nowrap">Richard Alexander</a></li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">Special Thanks</td>
+        <td>
+          <ul class="commaList">
+            <li><a href="https://www.mobygames.com/person/185485/thomas-dusenberry/" v-popover='{ id: 185485, name: "Thomas Dusenberry", type: 1 }' class="text-nowrap">Thomas Dusenberry</a></li>
+            <li><a href="https://www.mobygames.com/person/10987/louise-mctighe/" v-popover='{ id: 10987, name: "Louise McTighe", type: 1 }' class="text-nowrap">Louise McTighe</a></li>
+            <li><a href="https://www.mobygames.com/person/2646/kevin-buckner/" v-popover='{ id: 2646, name: "Kevin Buckner", type: 1 }' class="text-nowrap">Kevin Buckner</a></li>
+            <li><a href="https://www.mobygames.com/person/4209/michael-s-glosecki/" v-popover='{ id: 4209, name: "Michael S. Glosecki", type: 1 }' class="text-nowrap">Michael S. Glosecki</a></li>
+            <li><a href="https://www.mobygames.com/person/22273/debbie-shlens/" v-popover='{ id: 22273, name: "Debbie Shlens", type: 1 }' class="text-nowrap">Debbie Shlens</a></li>
+            <li><a href="https://www.mobygames.com/person/32698/barry-jafrato/" v-popover='{ id: 32698, name: "Barry Jafrato", type: 1 }' class="text-nowrap">Barry Jafrato</a></li>
+            <li><a href="https://www.mobygames.com/person/12240/dana-henry/" v-popover='{ id: 12240, name: "Dana Henry", type: 1 }' class="text-nowrap">Dana Henry</a></li>
+            </ul>
+        </td>
+      </tr>
+      
+      <tr>
+        <td colspan="2" class="text-muted">[ <a href="/game/5597/boggle/credits/windows/">full credits</a> ]</td>
+      </tr>
+      
+    </table>
+  </div>
+</section>
+
+<h2 id="reviews"><a href="/game/5597/boggle/reviews/">Reviews</a></h2>
+<div class="grid-split">
+  <section id="critic-reviews">
+    <h4>Critics</h4>
+    <p>
+      
+      Average score: 67% <span class="text-muted">(based on 6 ratings)</span>
+      
+    </p>
+    <critic-reviews :reviews='[{"citation": "Hardcore computer game fans often scoff at classic boardgame conversions, but Hasbro doesn\u0027t care - those old boardgames are classic for a reason, and a conversion to computer, if handled well, will likely be just as good, and maybe even better. Boggle, done by the same team that brought us Yahtzee, is one of those game; not only does it have the classic \"board\" game, but it has some intriguing variants possible only on the computer. Unfortunately, some of these aren\u0027t well implemented, which takes some of the shine off this otherwise excellent product.", "date": "1997", "edit_object_url": "/approval/edit-object?type=47\u0026oid=44313138", "grade": null, "id": 62617, "internal_url": "https://www.mobygames.com/game/5597/boggle/reviews/#critic-score-62617", "language": "en", "max_score": 5.0, "normalized_score": 70.0, "platform": {"id": 3, "name": "Windows"}, "score": 3.5, "source": {"country": {"country_code": "us", "flag": "https://cdn.mobygames.com/9f436050-ab5e-11ed-b6d6-02420a000150.gif", "id": 1, "name": "United States"}, "description": null, "edit_object_url": "/approval/edit-object?type=46\u0026oid=49257996", "first_year": 1995, "id": 253, "internal_url": "https://www.mobygames.com/critic/253/computer-games-magazine/", "languages": [{"code": "en", "id": 36, "name": "English", "ordering": 360}], "last_year": null, "name": "Computer Games Magazine", "num_reviews": 705, "url": "http://www.cgonline.com/"}, "submitter": {"id": 55856, "internal_url": "https://www.mobygames.com/user/55856/scaryfun/", "name": "Scaryfun"}, "type": {"id": 2, "name": "Star System"}, "url": null}, {"citation": "Graphically, BOGGLE is functional, rather than inspired, and lacks the pizzazz of some of Hasbro\u0027s earlier titles, such as SCRABBLE and RISK. Despite its foibles, though, this is still a better than average game \u2013 particularly when played multiplayer. It features a customizable dictionary, offers plenty of variety within each game-type, includes two levels of difficulty, and is devilishly addictive. Word-puzzle fans will not be disappointed.", "date": "1998-02", "edit_object_url": "/approval/edit-object?type=47\u0026oid=45881104", "grade": null, "id": 246396, "internal_url": "https://www.mobygames.com/game/5597/boggle/reviews/#critic-score-246396", "language": "en", "max_score": 5.0, "normalized_score": 70.0, "platform": {"id": 3, "name": "Windows"}, "score": 3.5, "source": {"country": {"country_code": "us", "flag": "https://cdn.mobygames.com/9f436050-ab5e-11ed-b6d6-02420a000150.gif", "id": 1, "name": "United States"}, "description": null, "edit_object_url": "/approval/edit-object?type=46\u0026oid=49257845", "first_year": 1981, "id": 35, "internal_url": "https://www.mobygames.com/critic/35/computer-gaming-world-cgw/", "languages": [{"code": "en", "id": 36, "name": "English", "ordering": 360}], "last_year": null, "name": "Computer Gaming World (CGW)", "num_reviews": 4723, "url": "http://cgw.1up.com/"}, "submitter": {"id": 136314, "internal_url": "https://www.mobygames.com/user/136314/patrick_b/", "name": "Patrick Bregger"}, "type": {"id": 2, "name": "Star System"}, "url": null}, {"citation": "In den meisten B\u00fcros sind Multiplayer-Perlen\nim LAN ein echtes Problem:\nWer kann es\nsich schon leisten, mehrst\u00fcndige Echtzeit-Strategieschlachten w\u00e4hrend der Arbeitszeit durchzuziehen? Boggle bietet hier eine echte Alternative. F\u00fcnf Minuten mit diesem Klassiker bereiteten uns manchmal mehr Spa\u00df als zwei Stunden mit Dungeon Keeper \u0026 Co. Ein Spiel alleine gegen den Computer kann da nat\u00fcrlich nicht mithalten.", "date": "1997-12", "edit_object_url": "/approval/edit-object?type=47\u0026oid=437570808", "grade": null, "id": 298110, "internal_url": "https://www.mobygames.com/game/5597/boggle/reviews/#critic-score-298110", "language": "de", "max_score": 100.0, "normalized_score": 65.0, "platform": {"id": 3, "name": "Windows"}, "score": 65.0, "source": {"country": {"country_code": "de", "flag": "https://cdn.mobygames.com/9f8eb00a-ab5e-11ed-b6d6-02420a000150.gif", "id": 9, "name": "Germany"}, "description": null, "edit_object_url": "/approval/edit-object?type=46\u0026oid=49257669", "first_year": 1992, "id": 40, "internal_url": "https://www.mobygames.com/critic/40/pc-games-germany/", "languages": [{"code": "de", "id": 47, "name": "German", "ordering": 470}], "last_year": null, "name": "PC Games (Germany)", "num_reviews": 6230, "url": "http://www.pcgames.de/"}, "submitter": {"id": 136314, "internal_url": "https://www.mobygames.com/user/136314/patrick_b/", "name": "Patrick Bregger"}, "type": {"id": 1, "name": "Numeric (Highest score is best)"}, "url": null}, {"citation": "Une adaptation assez classe du Boggle, qui n\u0027apporte pas grand chose par rapport \u00e0 la r\u00e9alit\u00e9.", "date": "1998-05", "edit_object_url": "/approval/edit-object?type=47\u0026oid=45682758", "grade": null, "id": 225203, "internal_url": "https://www.mobygames.com/game/5597/boggle/reviews/#critic-score-225203", "language": "fr", "max_score": 100.0, "normalized_score": 65.0, "platform": {"id": 3, "name": "Windows"}, "score": 65.0, "source": {"country": {"country_code": "fr", "flag": "https://cdn.mobygames.com/9f4ebb9e-ab5e-11ed-b6d6-02420a000150.gif", "id": 8, "name": "France"}, "description": null, "edit_object_url": "/approval/edit-object?type=46\u0026oid=49259481", "first_year": 1997, "id": 1372, "internal_url": "https://www.mobygames.com/critic/1372/pc-jeux/", "languages": [{"code": "fr", "id": 42, "name": "French", "ordering": 420}], "last_year": 2012, "name": "PC Jeux", "num_reviews": 483, "url": "http://www.jvn.com/blog/pc-jeux-le-blog-officiel.html"}, "submitter": {"id": 173516, "internal_url": "https://www.mobygames.com/user/173516/garkham/", "name": "garkham"}, "type": {"id": 1, "name": "Numeric (Highest score is best)"}, "url": null}, {"citation": "Erfolgreiche Titel wie \u201eRisiko\u201c oder \u201eStar Wars Monopoly\u201c machten Hasbro zum anerkannten Spezialisten f\u00fcr Brettspielumsetzungen. Diesen Ruf will man\njetzt mit einer digitalen Aufbereitung der popul\u00e4ren Buchstabenw\u00fcrfelei festigen: Bis zu vier\nmenschliche oder rechnergesteuerte Gegner sollen in einer 4 x 4\noder 5 x 5 W\u00fcrfel gro\u00dfen Ablage\nunter Zeitdruck W\u00f6rter bilden -\nje mehr Buchstaben dabei verwendet werden, desto mehr\nPunkte erh\u00e4lt man. Um Streit zu\nvermeiden, \u00fcberpr\u00fcft ein mehrsprachiges W\u00f6rterbuch (Deutsch, Englisch. Franz\u00f6sisch etc.) alle Begriffe. Es darf aber auch um eigene Ausdr\u00fccke erweitert werden.\nAlternativ zur klassischen Variante gibt es vier weitere, alle werden sie in ansprechender 3D-Grafik dargestellt. Der Sound stellt verschiedene Musikst\u00fccke zur Wahl, und das Optionsmen\u00fc erm\u00f6glicht Wortklauberei via Netzwerk oder Internet.", "date": "1998-01", "edit_object_url": "/approval/edit-object?type=47\u0026oid=50447620", "grade": null, "id": 277330, "internal_url": "https://www.mobygames.com/game/5597/boggle/reviews/#critic-score-277330", "language": "de", "max_score": 100.0, "normalized_score": 65.0, "platform": {"id": 3, "name": "Windows"}, "score": 65.0, "source": {"country": {"country_code": "de", "flag": "https://cdn.mobygames.com/9f8eb00a-ab5e-11ed-b6d6-02420a000150.gif", "id": 9, "name": "Germany"}, "description": null, "edit_object_url": "/approval/edit-object?type=46\u0026oid=49257811", "first_year": 1991, "id": 397, "internal_url": "https://www.mobygames.com/critic/397/pc-joker/", "languages": [{"code": "de", "id": 47, "name": "German", "ordering": 470}], "last_year": 2001, "name": "PC Joker", "num_reviews": 2748, "url": null}, "submitter": {"id": 136314, "internal_url": "https://www.mobygames.com/user/136314/patrick_b/", "name": "Patrick Bregger"}, "type": {"id": 1, "name": "Numeric (Highest score is best)"}, "url": "http://www.kultboy.com/index.php?site=t\u0026id=10478"}, {"citation": "Wie es sich f\u00fcr eine ambitionierte\nCD-ROM geh\u00f6rt, finden sich noch\nzus\u00e4tzliche Boggle-Variationen mit spannenden Namen wie z. B. \u201eBrunnen-\u201c oder \u201eWeltraum-Boggle\u201c auf dem Silberling, die sich allesamt\nziemlich abstrus zocken. Ganz spa\u00dfig ist\nlediglich noch das \u201eWortduell\u201c f\u00fcr zwei Spieler.\nUnterm Strich steht eine zwar etwas biedere,\naber saubere Brettspiel-Konvertierung zu einem\nakzeptablen Preis. F\u00fcr Fans!", "date": "1997-12-17", "edit_object_url": "/approval/edit-object?type=47\u0026oid=44536894", "grade": null, "id": 65443, "internal_url": "https://www.mobygames.com/game/5597/boggle/reviews/#critic-score-65443", "language": "de", "max_score": 100.0, "normalized_score": 64.5, "platform": {"id": 3, "name": "Windows"}, "score": 64.5, "source": {"country": {"country_code": "de", "flag": "https://cdn.mobygames.com/9f8eb00a-ab5e-11ed-b6d6-02420a000150.gif", "id": 9, "name": "Germany"}, "description": null, "edit_object_url": "/approval/edit-object?type=46\u0026oid=49257802", "first_year": 1996, "id": 146, "internal_url": "https://www.mobygames.com/critic/146/pc-action-germany/", "languages": [{"code": "de", "id": 47, "name": "German", "ordering": 470}], "last_year": 2012, "name": "PC Action (Germany)", "num_reviews": 4436, "url": "http://www.pcaction.de/"}, "submitter": {"id": 42761, "internal_url": "https://www.mobygames.com/user/42761/xoleras/", "name": "Xoleras"}, "type": {"id": 1, "name": "Numeric (Highest score is best)"}, "url": null}]'></critic-reviews>
+  </section>
+  <section id="player-reviews">
+    <h4>Players</h4>
+    <p>
+      Average score: 5.0 out of 5
+      <span class="text-muted">(based on 1 ratings with 0 reviews)</span>
+    </p>
+      <p class="alert">
+        Be the first to <a href="#">review this game</a>!
+      </p>
+  </section>
+</div>
+<section id="gameTrivia">
+  <h2>Trivia
+    
+  </h2>
+  <div id="trivia-text" class="text-break-word shrink-headings toggle-long-text">
+    <h3>Release history</h3>
+<p><em>Boggle</em> was bundled with AOL trial software and re-released in 2001 as a promotional give-away with boxes of General Mills cereals.</p>
+  </div>
+  <toggle-long-text element-id="trivia-text"></toggle-long-text>
+</section><section id="relatedGames">
+  <h2>Related Games</h2>
+  <div class="grid-split">
+    <div class="flex">
+      <div class="me-sm" aria-hidden="true">
+        <a href="https://www.mobygames.com/game/56693/new-boggle-boggle/" rel="nofollow" tabindex="-1">
+          <div class="img-thumbnail-box flex-center bg-notice">
+            <span class="icon icon-game" aria-hidden="true"></span>
+          </div>
+        </a>
+      </div>
+      <div class="text-ellipsis">
+        <b><a href="https://www.mobygames.com/game/56693/new-boggle-boggle/" rel="nofollow">New Boggle Boggle</a></b>
+        <br>
+        <small class="text-muted">
+          Released
+              1988 on
+            MSX
+        </small>
+      </div>
+    </div>
+    <div class="flex">
+      <div class="me-sm" aria-hidden="true">
+        <a href="https://www.mobygames.com/game/56695/new-boggle-boggle-2/" rel="nofollow" tabindex="-1">
+          <img loading="lazy" src="https://cdn.mobygames.com/ca0ba49a-c1df-11ed-ab6b-02420a000194.webp" width="181" height="136" alt="box cover" class="img-thumbnail-box">
+        </a>
+      </div>
+      <div class="text-ellipsis">
+        <b><a href="https://www.mobygames.com/game/56695/new-boggle-boggle-2/" rel="nofollow">New Boggle Boggle 2</a></b>
+        <br>
+        <small class="text-muted">
+          Released
+              1989 on
+            SEGA Master System, 
+            MSX
+        </small>
+      </div>
+    </div>
+    <div class="flex">
+      <div class="me-sm" aria-hidden="true">
+        <a href="https://www.mobygames.com/game/156978/mind-boggle/" rel="nofollow" tabindex="-1">
+          <img loading="lazy" src="https://cdn.mobygames.com/a6b21122-af98-11ed-9f64-02420a0001be.webp" width="91" height="136" alt="box cover" class="img-thumbnail-box">
+        </a>
+      </div>
+      <div class="text-ellipsis">
+        <b><a href="https://www.mobygames.com/game/156978/mind-boggle/" rel="nofollow">Mind Boggle</a></b>
+        <br>
+        <small class="text-muted">
+          Released
+              1986 on
+            DOS
+        </small>
+      </div>
+    </div>
+    <div class="flex">
+      <div class="me-sm" aria-hidden="true">
+        <a href="https://www.mobygames.com/game/79666/boggle-plus/" rel="nofollow" tabindex="-1">
+          <img loading="lazy" src="https://cdn.mobygames.com/483bc834-af77-11ed-8485-02420a0001be.webp" width="186" height="136" alt="box cover" class="img-thumbnail-box">
+        </a>
+      </div>
+      <div class="text-ellipsis">
+        <b><a href="https://www.mobygames.com/game/79666/boggle-plus/" rel="nofollow">Boggle Plus</a></b>
+        <br>
+        <small class="text-muted">
+          Released
+              1992 on
+            Game Boy
+        </small>
+      </div>
+    </div>
+    <div class="flex">
+      <div class="me-sm" aria-hidden="true">
+        <a href="https://www.mobygames.com/game/208087/mind-boggle/" rel="nofollow" tabindex="-1">
+          <img loading="lazy" src="https://cdn.mobygames.com/b2b0701a-492e-11ee-878c-02420a0001a9.webp" width="181" height="136" alt="box cover" class="img-thumbnail-box">
+        </a>
+      </div>
+      <div class="text-ellipsis">
+        <b><a href="https://www.mobygames.com/game/208087/mind-boggle/" rel="nofollow">Mind Boggle</a></b>
+        <br>
+        <small class="text-muted">
+          Released
+              1982 on
+            TRS-80 CoCo
+        </small>
+      </div>
+    </div>
+    <div class="flex">
+      <div class="me-sm" aria-hidden="true">
+        <a href="https://www.mobygames.com/game/192156/mind-boggle/" rel="nofollow" tabindex="-1">
+          <div class="img-thumbnail-box flex-center bg-notice">
+            <span class="icon icon-game" aria-hidden="true"></span>
+          </div>
+        </a>
+      </div>
+      <div class="text-ellipsis">
+        <b><a href="https://www.mobygames.com/game/192156/mind-boggle/" rel="nofollow">Mind Boggle</a></b>
+        <br>
+        <small class="text-muted">
+          Released
+              1979 on
+            TRS-80
+        </small>
+      </div>
+    </div>
+    <div class="flex">
+      <div class="me-sm" aria-hidden="true">
+        <a href="https://www.mobygames.com/game/26543/upwords-boggle-hangman-word-hunter-collection/" rel="nofollow" tabindex="-1">
+          <img loading="lazy" src="https://cdn.mobygames.com/239c8192-af9c-11ed-a644-02420a0001ba.webp" width="99" height="136" alt="box cover" class="img-thumbnail-box">
+        </a>
+      </div>
+      <div class="text-ellipsis">
+        <b><a href="https://www.mobygames.com/game/26543/upwords-boggle-hangman-word-hunter-collection/" rel="nofollow">UpWords, Boggle, Hangman & Word Hunter Collection</a></b>
+        <br>
+        <small class="text-muted">
+          Released
+              2006 on
+            Windows
+        </small>
+      </div>
+    </div>
+    <div class="flex">
+      <div class="me-sm" aria-hidden="true">
+        <a href="https://www.mobygames.com/game/62900/4-game-fun-pack-monopoly-boggle-yahtzee-battleship/" rel="nofollow" tabindex="-1">
+          <img loading="lazy" src="https://cdn.mobygames.com/dd661c7c-af4d-11ed-86b5-02420a0001ba.webp" width="153" height="136" alt="box cover" class="img-thumbnail-box">
+        </a>
+      </div>
+      <div class="text-ellipsis">
+        <b><a href="https://www.mobygames.com/game/62900/4-game-fun-pack-monopoly-boggle-yahtzee-battleship/" rel="nofollow">4 Game Fun Pack: Monopoly / Boggle / Yahtzee / Battleship</a></b>
+        <br>
+        <small class="text-muted">
+          Released
+              2005 on
+            Nintendo DS
+        </small>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="gameIdentifiers">
+  <h2>Identifiers <a href="/contribute/game-identifier/5597/" class="link-contributor" rel="nofollow">+</a></h2>
+  <ul class="list-group overflow-wrap-anywhere">
+    <li>MobyGames ID: 5597</li>
+    </ul>
+</section>
+<section>
+  <h2>Contribute</h2>
+  <p>
+    Are you familiar with this game? Help document and preserve this entry in video game history!
+  </p>
+  <ul class="commaList">
+    <li><a href="/contribute/alternate-title/5597/" class="link-contributor" rel="nofollow">Alternate Title</a></li>
+    <li><a href="/contribute/game-correction/5597/" class="link-contributor" rel="nofollow">Correction</a></li>
+    <li><a href="/contribute/critic-score/5597/" class="link-contributor" rel="nofollow">Critic Review</a></li>
+    <li><a href="/contribute/game-group-game/game/5597/" class="link-contributor" rel="nofollow">Group</a></li>
+    <li><a href="/game/5597/boggle/releases/" class="link-contributor" rel="nofollow">Product Codes</a></li>
+    <li><a href="/contribute/promo-images/5597/" class="link-contributor" rel="nofollow">Promo Images</a></li>
+    <li><a href="/contribute/game-site/5597/" class="link-contributor" rel="nofollow">Related Site</a></li>
+    <li><a href="/contribute/version/5597/" class="link-contributor" rel="nofollow">Release info</a></li>
+    <li><a href="/contribute/tech-specs/5597/" class="link-contributor" rel="nofollow">Tech specs</a></li>
+    <li><a href="/contribute/game-trivia/5597/" class="link-contributor" rel="nofollow">Trivia</a></li>
+    <li><a href="/contribute/game-video/5597/" class="link-contributor" rel="nofollow">Video</a></li>
+  </ul>
+</section>
+<section>
+  <h2>Contributors to this Entry</h2>
+  <p>
+    Game added by <a href="https://www.mobygames.com/user/1769/clydefrog/" v-popover='{id: 1769, name: "ClydeFrog"}'>ClydeFrog</a>.
+  </p>
+  <p>
+    <small>Additional contributors: <a href="https://www.mobygames.com/user/8375/jeanne/" v-popover='{ id: 8375, name: "Jeanne" }'>Jeanne</a>, <a href="https://www.mobygames.com/user/30979/sciere/" v-popover='{ id: 30979, name: "Sciere" }'>Sciere</a>, <a href="https://www.mobygames.com/user/136314/patrick_b/" v-popover='{ id: 136314, name: "Patrick Bregger" }'>Patrick Bregger</a>.</small>
+  </p>
+  <p data-nosnippet>
+    <small class="text-muted">Game added January 11th, 2002. Last modified March 26th, 2023.</small>
+  </p>
+</section>
+    </main>
+    <hr>
+    <footer>
+      <p>
+        <a href="/info/about/">About</a> &middot;
+        <a href="/info/faq/">FAQ</a> &middot;
+        <a href="/stats/">Stats</a> &middot;
+        <a href="/info/standards/">Standards</a> &middot;
+        <a href="/info/api/">API</a> &middot;
+        <a href="/info/contact/">Contact</a> &middot;
+        <a href="/changelog/">Change Log</a> &middot;
+        <a href="/info/privacy/">Privacy Policy</a> &middot;
+        <a href="/info/terms/">Terms of Use</a>
+      </p>
+      <p>
+        &copy; 1999&ndash;2023 MobyGames &trade;
+      </p>
+      <p>
+        <small class="text-muted">v2023.10.27b</small>
+      </p>
+      
+    </footer>
+    
+    <tooltip ref="tooltip"></tooltip>
+    <popover ref="popover"></popover>
+  </div>
+  <script type="module" src="https://www.mobygames.com/static/js/shared.8befb351.js"></script>
+<script type="module" src="https://www.mobygames.com/static/js/main.8df2d16f.js"></script>
+  </body>
+</html>
