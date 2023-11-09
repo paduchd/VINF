@@ -45,8 +45,8 @@ def saveHtml(html, id):
 # Runs the crawler process
 def runCrawler():
     counter = 0
-    id = 30236
-    while(counter < 2532):
+    id = 0
+    while(counter < 7645):
         gamePage = downloadHtml(f'{baseUrl}/game/{id}')
         print(f"Checking id: {id}")
         if(checkIfExists(gamePage) == False):

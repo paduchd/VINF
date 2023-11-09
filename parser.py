@@ -1,4 +1,4 @@
-#import csv
+import csv
 import os
 import re
 
@@ -76,24 +76,10 @@ def extractInformation(g, t, w):
     else:
         narative = narative.groups()[0].strip()
 
-    # print(f'{name.groups()[0].strip()}\n')
-    # print(f"Release date: {release.groups()[0].strip()}\n")
-    # print(f"Release platform: {release.groups()[1].strip()}\n")
-    # print(f"Credited people: {credits.groups()[0].strip()}\n")
-    # print(f'Developer: {developer}')
-    # print(f'Moby score: {mobyScore}')
-    # print(f'Critics score: {criticsScore}')
-    # print(f'Genre: {genre}')
-    # print(f'Perspective: {perspective}')
-    # print(f'Setting: {setting}')
-    # print(f'Narative: {narative}')
-    # print(f"Description: {description}")
-    # print(f"Trivia: {trivia}\n")
-
-    w.writerow([name.groups()[0].strip(), release.groups()[0].strip(), release.groups()[1].strip(), credits.groups()[0].strip(), developer, mobyScore, criticsScore, genre, perspective, setting, narative, description, trivia])
+    w.writerow([name.groups()[0].strip(), release.groups()[0].strip(), release.groups()[1].strip(), credits.groups()[0].strip(), developer, mobyScore, criticsScore, genre, perspective, setting, narative, description, trivia.rstrip()])
 
 def main(files):
-    with open('parsedData.csv','w', encoding='utf-8') as csvfile:
+    with open('parsedData.csv','w', encoding='utf-8', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(['Name', 'Release date', 'Release platform', 'Credited people', 'Developer', 'Moby score', 'Critics score', 'Genre', 'Perspective', 'Setting', 'Narative', 'Description', 'Trivia'])
         for i in range(0, len(files), 2):
