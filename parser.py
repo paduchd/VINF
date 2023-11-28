@@ -24,7 +24,7 @@ def extractInformation(g, t, w):
     genre = re.search('<dt>Genre</dt>.+?<a href=.+?>(.+?)</a>', g, flags= re.I | re.M | re.S)
     perspective = re.search('<dt>Perspective</dt>.+?<a href=.+?>(.+?)</a>', g, flags= re.I | re.M | re.S)
     setting = re.search('<dt>Setting</dt>.+?<a href=.+?>(.+?)</a>', g, flags= re.I | re.M | re.S)
-    narative = re.search('<dt>Narative</dt>.+?<a href=.+?>(.+?)</a>', g, flags= re.I | re.M | re.S)
+    narrative = re.search('<dt>Narrative</dt>.+?<a href=.+?>(.+?)</a>', g, flags= re.I | re.M | re.S)
     description = re.search('<div id=\"description-text\".+?>(.+?)</div>', g, flags= re.I | re.M | re.S)
     description = removeHtmlTags(description.groups()[0])
 
@@ -34,6 +34,7 @@ def extractInformation(g, t, w):
     if (trivia == None):
         trivia = re.search('<h2>Trivia</h2>.+?<div.+?>(.+?)</div>', t, flags=re.I | re.M | re.S)
     trivia = removeHtmlTags(trivia.groups()[0].strip())
+
 
     if(developer == None):
         developer = 'Not listed'
@@ -64,24 +65,30 @@ def extractInformation(g, t, w):
     else:
         perspective = perspective.groups()[0].strip()
 
-
     if(setting == None):
         setting = 'Not listed'
     else:
         setting = setting.groups()[0].strip()
 
 
-    if(narative == None):
+    if(narrative == None):
         narative = 'Not listed'
     else:
-        narative = narative.groups()[0].strip()
+        narative = narrative.groups()[0].strip()
 
-    w.writerow([name.groups()[0].strip(), release.groups()[0].strip(), release.groups()[1].strip(), credits.groups()[0].strip(), developer, mobyScore, criticsScore, genre, perspective, setting, narative, description, trivia.rstrip()])
+
+    if(credits.groups()[0].strip() == "Contribute"):
+        credits = 'Not listed'
+    else:
+        credits = credits.groups()[0].strip()
+
+
+    w.writerow([name.groups()[0].strip(), release.groups()[0].strip()[-4:], release.groups()[1].strip(), credits, developer, mobyScore, criticsScore, genre, perspective, setting, narative, description, trivia.rstrip()])
 
 def main(files):
     with open('parsedData.csv','w', encoding='utf-8', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['Name', 'Release date', 'Release platform', 'Credited people', 'Developer', 'Moby score', 'Critics score', 'Genre', 'Perspective', 'Setting', 'Narative', 'Description', 'Trivia'])
+        writer.writerow(['Name', 'ReleaseYear', 'ReleasePlatform', 'Credits', 'Developer', 'MobyScore', 'CriticsScore', 'Genre', 'Perspective', 'Setting', 'Narrative', 'Description', 'Trivia'])
         for i in range(0, len(files), 2):
             game = open(f'RawData/{files[i]}', 'r', encoding = "utf-8").read()
             trivia = open(f'RawData/{files[i+1]}', 'r', encoding = "utf-8").read()
