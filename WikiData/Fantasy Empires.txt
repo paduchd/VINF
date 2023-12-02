@@ -1,0 +1,2 @@
+Game: Fantasy Empires
+Mode: Single player

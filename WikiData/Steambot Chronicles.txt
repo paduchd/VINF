@@ -1,0 +1,2 @@
+Game: Steambot Chronicles
+Mode: Single-player

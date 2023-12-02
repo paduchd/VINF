@@ -1,0 +1,2 @@
+Game: Atomic Bomberman
+Mode: Single player

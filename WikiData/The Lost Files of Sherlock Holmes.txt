@@ -1,0 +1,2 @@
+Game: The Lost Files of Sherlock Holmes
+Mode: Single-player

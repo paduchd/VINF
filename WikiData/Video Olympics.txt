@@ -1,0 +1,2 @@
+Game: Video Olympics
+Mode: Single-player video game|Single-player

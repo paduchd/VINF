@@ -1,0 +1,2 @@
+Game: Battle Arena Toshinden 3
+Mode: Single-player

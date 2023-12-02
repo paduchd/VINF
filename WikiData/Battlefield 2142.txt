@@ -1,0 +1,2 @@
+Game: Battlefield 2142
+Mode: Single-player

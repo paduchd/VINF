@@ -1,0 +1,2 @@
+Game: Arcade Pool
+Mode: Single-player

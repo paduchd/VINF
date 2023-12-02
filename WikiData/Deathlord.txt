@@ -1,0 +1,2 @@
+Game: Deathlord
+Mode: Single-player

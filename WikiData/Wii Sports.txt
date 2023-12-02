@@ -1,0 +1,2 @@
+Game: Wii Sports
+Mode: Single-player

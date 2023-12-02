@@ -1,0 +1,2 @@
+Game: Anchorhead
+Mode: Single player

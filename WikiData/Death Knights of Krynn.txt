@@ -1,0 +1,2 @@
+Game: Death Knights of Krynn
+Mode: Single-player

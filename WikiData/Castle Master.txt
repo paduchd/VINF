@@ -1,0 +1,2 @@
+Game: Castle Master
+Mode: Single-player

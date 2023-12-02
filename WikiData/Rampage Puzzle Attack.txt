@@ -1,0 +1,2 @@
+Game: Rampage Puzzle Attack
+Mode: Single-player

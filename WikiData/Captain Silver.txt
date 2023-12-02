@@ -1,0 +1,2 @@
+Game: Captain Silver
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Bubsy 3D
+Mode: Single-player

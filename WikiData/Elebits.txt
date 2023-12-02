@@ -1,0 +1,2 @@
+Game: Elebits
+Mode: Single-player

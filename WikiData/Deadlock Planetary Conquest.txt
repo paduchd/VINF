@@ -1,0 +1,2 @@
+Game: Deadlock: Planetary Conquest
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: MechWarrior 4: Mercenaries
+Mode: Single-player

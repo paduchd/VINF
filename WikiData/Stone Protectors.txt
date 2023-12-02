@@ -1,0 +1,2 @@
+Game: Stone Protectors
+Mode: Single-player

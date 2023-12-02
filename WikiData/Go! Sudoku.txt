@@ -1,0 +1,2 @@
+Game: Go! Sudoku
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Elite Beat Agents
+Mode: Single player

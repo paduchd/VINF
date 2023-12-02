@@ -1,0 +1,2 @@
+Game: Championship Manager 2
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Titan Quest
+Mode: Single-player

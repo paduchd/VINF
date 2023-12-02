@@ -1,0 +1,2 @@
+Game: B.C. Bill
+Mode: Single-player

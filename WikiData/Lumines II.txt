@@ -1,0 +1,2 @@
+Game: Lumines II
+Mode: Single-player

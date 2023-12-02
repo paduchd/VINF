@@ -1,0 +1,2 @@
+Game: Fallout: Brotherhood of Steel
+Mode: Single-player

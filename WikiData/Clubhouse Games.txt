@@ -1,0 +1,2 @@
+Game: Clubhouse Games
+Mode: Single-player

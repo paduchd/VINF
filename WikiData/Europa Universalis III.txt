@@ -1,0 +1,2 @@
+Game: Europa Universalis III
+Mode: Single-player

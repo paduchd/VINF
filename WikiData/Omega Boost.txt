@@ -1,0 +1,2 @@
+Game: Omega Boost
+Mode: Single player

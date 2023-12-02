@@ -1,0 +1,2 @@
+Game: Iridion 3D
+Mode: Single player

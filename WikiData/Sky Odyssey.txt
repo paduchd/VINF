@@ -1,0 +1,2 @@
+Game: Sky Odyssey
+Mode: Single-player

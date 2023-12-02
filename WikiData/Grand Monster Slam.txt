@@ -1,0 +1,2 @@
+Game: Grand Monster Slam
+Mode: Single-player

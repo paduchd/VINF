@@ -1,0 +1,2 @@
+Game: Worms: Open Warfare
+Mode: Single-player

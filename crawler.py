@@ -49,9 +49,11 @@ def runCrawler():
     while(counter < 7645):
         gamePage = downloadHtml(f'{baseUrl}/game/{id}')
         print(f"Checking id: {id}")
+        # Checking if game with current id exists
         if(checkIfExists(gamePage) == False):
             id += 1
             continue
+        # Checking if the game has trivia
         elif(checkForTrivia(gamePage) == False):
             id += 1
             continue

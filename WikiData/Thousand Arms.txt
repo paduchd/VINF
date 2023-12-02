@@ -1,0 +1,2 @@
+Game: Thousand Arms
+Mode: Single-player

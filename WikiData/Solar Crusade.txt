@@ -1,0 +1,2 @@
+Game: Solar Crusade
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Time Gal
+Mode: Single-player

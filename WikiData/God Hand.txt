@@ -1,0 +1,2 @@
+Game: God Hand
+Mode: Single-player

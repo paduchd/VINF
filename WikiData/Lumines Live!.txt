@@ -1,0 +1,2 @@
+Game: Lumines Live!
+Mode: Single player

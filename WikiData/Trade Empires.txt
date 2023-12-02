@@ -1,0 +1,2 @@
+Game: Trade Empires
+Mode: Single-player

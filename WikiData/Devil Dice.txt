@@ -1,0 +1,2 @@
+Game: Devil Dice
+Mode: Single-player

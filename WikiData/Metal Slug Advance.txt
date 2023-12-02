@@ -1,0 +1,2 @@
+Game: Metal Slug Advance
+Mode: Single Player

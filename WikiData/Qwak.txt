@@ -1,0 +1,2 @@
+Game: Qwak
+Mode: Single player

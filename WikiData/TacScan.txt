@@ -1,0 +1,2 @@
+Game: Tac/Scan
+Mode: Single-player video game|Single-player

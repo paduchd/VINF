@@ -10,12 +10,14 @@ for path in os.listdir(directoryPath):
     if os.path.isfile(os.path.join(directoryPath, path)):
         files.append(path)
 
+# Function to remove html tags
 def removeHtmlTags(text):
     tags = re.compile(r'<.*?>')
     return tags.sub('', text)
 
+# Extracting needed information from game and trivia pages
 def extractInformation(g, t, w):
-    name = re.search('<title>(.+?) - MobyGames.+?</title>', g, flags= re.I | re.M | re.S)
+    name = re.search('<title>(.+?)\(\d\d\d\d\) - MobyGames.+?</title>', g, flags= re.I | re.M | re.S)
     release = re.search('<dt>Released</dt>.+?<a href=.+?>\n?(.+?)</a>.+?<a href=.+?>\n?(.+?)</a>', g, flags= re.I | re.M | re.S)
     credits = re.search('<dt>Credits</dt>.+?<a href=.+?>(.+?)</a>', g, flags= re.I | re.M | re.S)
     developer = re.search('<dt>Developers</dt>.+?<a href=.+?>(.+?)</a>', g, flags= re.I | re.M | re.S)
@@ -28,6 +30,7 @@ def extractInformation(g, t, w):
     description = re.search('<div id=\"description-text\".+?>(.+?)</div>', g, flags= re.I | re.M | re.S)
     description = removeHtmlTags(description.groups()[0])
 
+    # Trivia can have different forms
     trivia = re.search('<h2>Trivia</h2>.+?(<h3>.+?)<p>Information also contributed by.+?</p>', t, flags=re.I | re.M | re.S)
     if(trivia == None):
         trivia = re.search('<h2>Trivia</h2>.+?(<h3>.+?)<a href=\"/contribute/.+?>edit trivia</a>', t, flags=re.I | re.M | re.S)
@@ -35,7 +38,7 @@ def extractInformation(g, t, w):
         trivia = re.search('<h2>Trivia</h2>.+?<div.+?>(.+?)</div>', t, flags=re.I | re.M | re.S)
     trivia = removeHtmlTags(trivia.groups()[0].strip())
 
-
+    # Write 'Not listed' if information is not found
     if(developer == None):
         developer = 'Not listed'
     else:
@@ -82,7 +85,9 @@ def extractInformation(g, t, w):
     else:
         credits = credits.groups()[0].strip()
 
+    print("Parsing: ", name.groups()[0].strip())
 
+    # Write the game information in the csv
     w.writerow([name.groups()[0].strip(), release.groups()[0].strip()[-4:], release.groups()[1].strip(), credits, developer, mobyScore, criticsScore, genre, perspective, setting, narative, description, trivia.rstrip()])
 
 def main(files):

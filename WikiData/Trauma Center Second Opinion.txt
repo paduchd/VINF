@@ -1,0 +1,2 @@
+Game: Trauma Center: Second Opinion
+Mode: Single-player

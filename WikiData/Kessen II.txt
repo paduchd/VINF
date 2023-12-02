@@ -1,0 +1,2 @@
+Game: Kessen II
+Mode: Single player
