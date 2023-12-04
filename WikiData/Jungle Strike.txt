@@ -1,0 +1,2 @@
+Game: Jungle Strike
+Mode: Single player

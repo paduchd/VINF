@@ -1,0 +1,2 @@
+Game: Gun.Smoke
+Mode: Single-player video game|Single-player

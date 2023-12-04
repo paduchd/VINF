@@ -1,0 +1,2 @@
+Game: The Incredible Machine 2
+Mode: Single-player

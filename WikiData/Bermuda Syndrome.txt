@@ -1,0 +1,2 @@
+Game: Bermuda Syndrome
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: World Series of Poker: Tournament of Champions
+Mode: Single-player

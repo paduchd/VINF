@@ -1,0 +1,2 @@
+Game: Cubivore: Survival of the Fittest
+Mode: Single-player

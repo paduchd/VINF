@@ -1,0 +1,2 @@
+Game: Richard Burns Rally
+Mode: Single player

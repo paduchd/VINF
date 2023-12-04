@@ -1,0 +1,2 @@
+Game: Xenon 2: Megablast
+Mode: Single-player

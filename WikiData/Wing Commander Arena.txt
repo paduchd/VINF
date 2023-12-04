@@ -1,0 +1,2 @@
+Game: Wing Commander Arena
+Mode: Single player

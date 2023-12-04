@@ -1,0 +1,2 @@
+Game: Penguin Land
+Mode: Single-player video game|Single-player

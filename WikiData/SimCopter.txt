@@ -1,0 +1,2 @@
+Game: SimCopter
+Mode: Single-player video game|Single-player

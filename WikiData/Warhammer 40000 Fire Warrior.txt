@@ -1,0 +1,2 @@
+Game: Warhammer 40,000: Fire Warrior
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Apidya
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Puyo Pop Fever
+Mode: Single-player

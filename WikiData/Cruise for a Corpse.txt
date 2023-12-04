@@ -1,0 +1,2 @@
+Game: Cruise for a Corpse
+Mode: Single player

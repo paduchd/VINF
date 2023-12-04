@@ -1,0 +1,2 @@
+Game: Action 52
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: 2400 A.D.
+Mode: Single-player video game|Single-player

@@ -1,0 +1,2 @@
+Game: Star Paws
+Mode: Single-player

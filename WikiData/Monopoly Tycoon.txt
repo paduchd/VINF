@@ -1,0 +1,2 @@
+Game: Monopoly Tycoon
+Mode: Single-player

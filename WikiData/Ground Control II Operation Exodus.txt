@@ -1,0 +1,2 @@
+Game: Ground Control II: Operation Exodus
+Mode: Single-player

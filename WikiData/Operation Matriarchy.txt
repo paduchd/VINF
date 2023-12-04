@@ -1,0 +1,2 @@
+Game: Operation: Matriarchy
+Mode: Single player

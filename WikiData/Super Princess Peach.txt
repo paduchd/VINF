@@ -1,0 +1,2 @@
+Game: Super Princess Peach
+Mode: Single-player

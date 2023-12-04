@@ -1,0 +1,2 @@
+Game: Wario Land II
+Mode: Single-player

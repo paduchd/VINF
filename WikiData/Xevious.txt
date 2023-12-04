@@ -1,0 +1,2 @@
+Game: Xevious
+Mode: Single-player

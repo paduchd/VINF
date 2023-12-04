@@ -1,0 +1,2 @@
+Game: X-COM: Apocalypse
+Mode: Single-player

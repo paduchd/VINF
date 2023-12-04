@@ -1,0 +1,2 @@
+Game: Zone 66
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Metroid Prime 2: Echoes
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Landstalker
+Mode: Single-player

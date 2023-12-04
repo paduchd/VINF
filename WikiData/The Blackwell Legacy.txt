@@ -1,0 +1,2 @@
+Game: The Blackwell Legacy
+Mode: Single-player

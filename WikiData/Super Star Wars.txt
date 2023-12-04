@@ -1,0 +1,2 @@
+Game: Super Star Wars
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Maniac Mansion
+Mode: Single-player

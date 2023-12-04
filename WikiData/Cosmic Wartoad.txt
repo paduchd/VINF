@@ -1,0 +1,2 @@
+Game: Cosmic Wartoad
+Mode: Single player

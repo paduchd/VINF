@@ -1,0 +1,2 @@
+Game: Vid Grid
+Mode: Single-player video game|Single-player

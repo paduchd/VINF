@@ -1,0 +1,2 @@
+Game: Jetstrike
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Pac-Mania
+Mode: Single-player

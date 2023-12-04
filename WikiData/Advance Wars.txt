@@ -1,0 +1,2 @@
+Game: Advance Wars
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Castle Wolfenstein
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: NHL 06
+Mode: Single-player

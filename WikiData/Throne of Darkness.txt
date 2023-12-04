@@ -1,0 +1,2 @@
+Game: Throne of Darkness
+Mode: Single-player

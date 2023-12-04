@@ -1,0 +1,2 @@
+Game: Neverwinter Nights 2
+Mode: Single-player

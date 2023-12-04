@@ -1,0 +1,2 @@
+Game: Dr. Mario 64
+Mode: Single-player

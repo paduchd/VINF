@@ -1,0 +1,2 @@
+Game: Duke Nukem: Time to Kill
+Mode: Single-player

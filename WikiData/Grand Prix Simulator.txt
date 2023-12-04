@@ -1,0 +1,2 @@
+Game: Grand Prix Simulator
+Mode: Single-player

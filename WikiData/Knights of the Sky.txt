@@ -1,0 +1,2 @@
+Game: Knights of the Sky
+Mode: Single-player

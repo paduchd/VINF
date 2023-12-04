@@ -1,0 +1,2 @@
+Game: Gradius III
+Mode: Single-player video game|Single-player

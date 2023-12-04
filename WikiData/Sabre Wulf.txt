@@ -1,0 +1,2 @@
+Game: Sabre Wulf
+Mode: Single-player

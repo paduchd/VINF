@@ -1,0 +1,2 @@
+Game: The Labyrinth of Time
+Mode: Single player

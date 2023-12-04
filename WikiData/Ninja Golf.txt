@@ -1,0 +1,2 @@
+Game: Ninja Golf
+Mode: Single-player video game|Single-player

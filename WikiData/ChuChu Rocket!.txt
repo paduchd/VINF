@@ -1,0 +1,2 @@
+Game: ChuChu Rocket!
+Mode: Single-player

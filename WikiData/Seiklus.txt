@@ -1,0 +1,2 @@
+Game: Seiklus
+Mode: Single player

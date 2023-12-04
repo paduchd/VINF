@@ -1,0 +1,2 @@
+Game: Slipstream 5000
+Mode: Single-player video game|Single-player

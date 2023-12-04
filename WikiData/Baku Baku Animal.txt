@@ -1,0 +1,2 @@
+Game: Baku Baku Animal
+Mode: Single-player

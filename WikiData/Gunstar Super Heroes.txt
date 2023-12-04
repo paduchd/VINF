@@ -1,0 +1,2 @@
+Game: Gunstar Super Heroes
+Mode: Single-player

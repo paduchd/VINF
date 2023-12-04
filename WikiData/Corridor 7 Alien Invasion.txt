@@ -1,0 +1,2 @@
+Game: Corridor 7: Alien Invasion
+Mode: Single-player

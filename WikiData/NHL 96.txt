@@ -1,0 +1,2 @@
+Game: NHL 96
+Mode: Single-player

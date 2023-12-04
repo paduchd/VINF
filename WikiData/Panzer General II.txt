@@ -1,0 +1,2 @@
+Game: Panzer General II
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: MechAssault
+Mode: Single player

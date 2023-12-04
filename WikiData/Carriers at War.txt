@@ -1,0 +1,2 @@
+Game: Carriers at War
+Mode: Single-player

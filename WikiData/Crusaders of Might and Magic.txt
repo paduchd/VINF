@@ -1,0 +1,2 @@
+Game: Crusaders of Might and Magic
+Mode: Single player

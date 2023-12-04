@@ -1,0 +1,2 @@
+Game: Star Control
+Mode: Single player

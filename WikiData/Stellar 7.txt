@@ -1,0 +1,2 @@
+Game: Stellar 7
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Soldiers at War
+Mode: Single-player

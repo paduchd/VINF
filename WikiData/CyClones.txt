@@ -1,0 +1,2 @@
+Game: CyClones
+Mode: Single-player video game|Single-player

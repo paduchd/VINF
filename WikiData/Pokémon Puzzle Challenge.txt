@@ -1,0 +1,2 @@
+Game: Pokémon Puzzle Challenge
+Mode: Single player

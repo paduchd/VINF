@@ -1,0 +1,2 @@
+Game: Necrodome
+Mode: Single-player

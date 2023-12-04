@@ -1,0 +1,2 @@
+Game: The Endless Forest
+Mode: Single-player

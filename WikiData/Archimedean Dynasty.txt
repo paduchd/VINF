@@ -1,0 +1,2 @@
+Game: Archimedean Dynasty
+Mode: Single player

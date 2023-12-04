@@ -1,0 +1,2 @@
+Game: Power Stone 2
+Mode: Single-player

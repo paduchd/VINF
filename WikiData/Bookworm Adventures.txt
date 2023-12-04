@@ -1,0 +1,2 @@
+Game: Bookworm Adventures
+Mode: Single-player

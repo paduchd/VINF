@@ -1,0 +1,2 @@
+Game: Sonic R
+Mode: Single-player

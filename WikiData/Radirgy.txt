@@ -1,0 +1,2 @@
+Game: Radirgy
+Mode: Single-player

@@ -18,6 +18,9 @@ def extractWikiData():
                 gameName = re.search('Game:\s(.+)', lines[0].strip(), flags = re.I | re.M)
                 gameMode = re.search('Mode:\s(.+)', lines[1].strip(), flags = re.I | re.M)
 
+                print(gameName.groups()[0])
+                print("\t" + gameMode.groups()[0])
+
                 dataDict[gameName.groups()[0]] = gameMode.groups()[0]
 
 extractWikiData()

@@ -1,0 +1,2 @@
+Game: Mech Brigade
+Mode: Single-player

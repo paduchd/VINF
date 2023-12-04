@@ -1,0 +1,2 @@
+Game: World Championship Boxing Manager
+Mode: Single-player

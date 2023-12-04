@@ -1,0 +1,2 @@
+Game: Universal Combat
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Nintendogs
+Mode: Single-player

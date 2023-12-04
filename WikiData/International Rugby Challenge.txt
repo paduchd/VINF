@@ -1,0 +1,2 @@
+Game: International Rugby Challenge
+Mode: Single-player

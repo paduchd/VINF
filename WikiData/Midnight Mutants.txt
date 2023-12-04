@@ -1,0 +1,2 @@
+Game: Midnight Mutants
+Mode: Single player

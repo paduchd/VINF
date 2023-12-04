@@ -1,0 +1,2 @@
+Game: Super Ninja Boy
+Mode: Single-player

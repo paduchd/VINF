@@ -1,0 +1,2 @@
+Game: Gunman Chronicles
+Mode: Single-player

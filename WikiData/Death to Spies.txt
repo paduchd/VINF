@@ -1,0 +1,2 @@
+Game: Death to Spies
+Mode: Single-player

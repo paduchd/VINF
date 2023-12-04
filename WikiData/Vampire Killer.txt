@@ -1,0 +1,2 @@
+Game: Vampire Killer
+Mode: Single-player

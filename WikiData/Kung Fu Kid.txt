@@ -1,0 +1,2 @@
+Game: Kung Fu Kid
+Mode: Single-player

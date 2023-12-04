@@ -1,0 +1,2 @@
+Game: Twisted Metal 2
+Mode: Single-player

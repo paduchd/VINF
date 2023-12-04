@@ -1,0 +1,2 @@
+Game: Mega Turrican
+Mode: Single-player

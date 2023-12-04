@@ -1,0 +1,2 @@
+Game: Tetris DS
+Mode: Single player

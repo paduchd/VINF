@@ -1,0 +1,2 @@
+Game: Krazy Ivan
+Mode: Single-player

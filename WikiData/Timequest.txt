@@ -1,0 +1,2 @@
+Game: Timequest
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Emperor: Battle for Dune
+Mode: Single-player

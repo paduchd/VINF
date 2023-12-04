@@ -1,0 +1,2 @@
+Game: Protostar: War on the Frontier
+Mode: Single-player

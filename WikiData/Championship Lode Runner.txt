@@ -1,0 +1,2 @@
+Game: Championship Lode Runner
+Mode: Single-player video game|Single-player

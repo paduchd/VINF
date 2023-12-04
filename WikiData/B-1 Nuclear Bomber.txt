@@ -1,0 +1,2 @@
+Game: B-1 Nuclear Bomber
+Mode: Single-player video game|Single-player

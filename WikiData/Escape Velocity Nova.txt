@@ -1,0 +1,2 @@
+Game: Escape Velocity Nova
+Mode: Single player

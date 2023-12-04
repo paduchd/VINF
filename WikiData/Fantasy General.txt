@@ -1,0 +1,2 @@
+Game: Fantasy General
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Mr. Nutz
+Mode: Single-player

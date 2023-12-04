@@ -1,0 +1,2 @@
+Game: Shadows of Cairn
+Mode: Single-player

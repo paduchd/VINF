@@ -1,0 +1,2 @@
+Game: Wing Commander III: Heart of the Tiger
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Arx Fatalis
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: AquaNox
+Mode: Single-player

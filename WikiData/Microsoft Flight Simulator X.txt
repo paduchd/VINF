@@ -1,0 +1,2 @@
+Game: Microsoft Flight Simulator X
+Mode: Single player

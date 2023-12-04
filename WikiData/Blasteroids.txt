@@ -1,0 +1,2 @@
+Game: Blasteroids
+Mode: Single-player video game|Single-player

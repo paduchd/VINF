@@ -1,0 +1,2 @@
+Game: Sudeki
+Mode: Single-player video game|Single-player

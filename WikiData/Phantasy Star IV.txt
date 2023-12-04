@@ -1,0 +1,2 @@
+Game: Phantasy Star IV
+Mode: Single-player

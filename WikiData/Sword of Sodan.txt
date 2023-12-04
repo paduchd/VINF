@@ -1,0 +1,2 @@
+Game: Sword of Sodan
+Mode: Single-player

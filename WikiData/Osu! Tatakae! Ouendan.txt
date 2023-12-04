@@ -1,0 +1,2 @@
+Game: Osu! Tatakae! Ouendan
+Mode: Single player

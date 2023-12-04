@@ -1,0 +1,2 @@
+Game: Across the Rhine
+Mode: Single-player

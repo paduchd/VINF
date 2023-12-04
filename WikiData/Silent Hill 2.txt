@@ -1,0 +1,2 @@
+Game: Silent Hill 2
+Mode: Single-player

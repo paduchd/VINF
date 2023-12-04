@@ -1,0 +1,2 @@
+Game: The Great Giana Sisters
+Mode: Single-player

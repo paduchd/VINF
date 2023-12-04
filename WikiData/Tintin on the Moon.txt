@@ -1,0 +1,2 @@
+Game: Tintin on the Moon
+Mode: Single-player

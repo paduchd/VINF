@@ -1,0 +1,2 @@
+Game: HardBall!
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Odin Sphere
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: PaTaank
+Mode: Single-player video game|Single-player

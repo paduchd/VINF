@@ -1,0 +1,2 @@
+Game: Mansion of Hidden Souls
+Mode: Single-player

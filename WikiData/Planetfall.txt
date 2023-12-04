@@ -1,0 +1,2 @@
+Game: Planetfall
+Mode: Single-player

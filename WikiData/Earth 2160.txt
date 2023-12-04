@@ -1,0 +1,2 @@
+Game: Earth 2160
+Mode: Single-player

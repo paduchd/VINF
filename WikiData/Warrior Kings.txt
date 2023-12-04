@@ -1,0 +1,2 @@
+Game: Warrior Kings
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Twisted Metal 4
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: EyeToy: Play
+Mode: Single-player

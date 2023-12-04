@@ -1,0 +1,2 @@
+Game: Hexen: Beyond Heretic
+Mode: Single-player

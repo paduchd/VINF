@@ -1,0 +1,2 @@
+Game: Ballblazer
+Mode: Single-player

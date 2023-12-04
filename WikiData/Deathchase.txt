@@ -1,0 +1,2 @@
+Game: Deathchase
+Mode: Single-player video game|Single-player

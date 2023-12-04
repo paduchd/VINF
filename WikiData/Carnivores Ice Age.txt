@@ -1,0 +1,2 @@
+Game: Carnivores: Ice Age
+Mode: Single-player

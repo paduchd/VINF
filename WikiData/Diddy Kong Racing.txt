@@ -1,0 +1,2 @@
+Game: Diddy Kong Racing
+Mode: Single-player

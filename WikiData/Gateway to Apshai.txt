@@ -1,0 +1,2 @@
+Game: Gateway to Apshai
+Mode: Single-player

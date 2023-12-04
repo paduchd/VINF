@@ -1,0 +1,2 @@
+Game: NHL 95
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Bloodwych
+Mode: Single player|Single-player

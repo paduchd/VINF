@@ -1,0 +1,2 @@
+Game: Strange Odyssey
+Mode: Single-player

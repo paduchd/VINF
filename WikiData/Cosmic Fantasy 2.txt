@@ -1,0 +1,2 @@
+Game: Cosmic Fantasy 2
+Mode: Single-player

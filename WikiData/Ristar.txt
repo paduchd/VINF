@@ -1,0 +1,2 @@
+Game: Ristar
+Mode: Single-player

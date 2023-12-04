@@ -1,0 +1,2 @@
+Game: Xybots
+Mode: Single-player

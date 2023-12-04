@@ -1,0 +1,2 @@
+Game: Winter Gold
+Mode: Single-player

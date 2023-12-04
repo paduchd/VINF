@@ -1,0 +1,2 @@
+Game: Soviet Strike
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Die by the Sword
+Mode: Single-player

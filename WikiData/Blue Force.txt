@@ -1,0 +1,2 @@
+Game: Blue Force
+Mode: Single-player

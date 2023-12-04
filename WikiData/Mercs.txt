@@ -1,0 +1,2 @@
+Game: Mercs
+Mode: Single-player

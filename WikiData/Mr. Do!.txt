@@ -1,0 +1,2 @@
+Game: Mr. Do!
+Mode: Single-player

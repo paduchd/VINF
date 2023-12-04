@@ -1,0 +1,2 @@
+Game: XF5700 Mantis Experimental Fighter
+Mode: Single-player

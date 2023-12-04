@@ -1,0 +1,2 @@
+Game: Deep Fear
+Mode: Single-player

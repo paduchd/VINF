@@ -1,0 +1,2 @@
+Game: Battletoads in Battlemaniacs
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Kingpin: Life of Crime
+Mode: Single-player

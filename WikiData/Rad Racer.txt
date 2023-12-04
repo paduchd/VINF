@@ -1,0 +1,2 @@
+Game: Rad Racer
+Mode: Single-player

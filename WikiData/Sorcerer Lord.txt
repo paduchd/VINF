@@ -1,0 +1,2 @@
+Game: Sorcerer Lord
+Mode: Single-player

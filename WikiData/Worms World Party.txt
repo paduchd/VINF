@@ -1,0 +1,2 @@
+Game: Worms World Party
+Mode: Single-player

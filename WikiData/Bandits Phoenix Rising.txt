@@ -1,0 +1,2 @@
+Game: Bandits: Phoenix Rising
+Mode: Single-player

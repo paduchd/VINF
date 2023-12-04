@@ -1,0 +1,2 @@
+Game: Sonic Blast
+Mode: Single-player

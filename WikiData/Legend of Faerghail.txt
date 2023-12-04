@@ -1,0 +1,2 @@
+Game: Legend of Faerghail
+Mode: Single-player

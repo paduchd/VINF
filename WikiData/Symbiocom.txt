@@ -1,0 +1,2 @@
+Game: Symbiocom
+Mode: Single-player

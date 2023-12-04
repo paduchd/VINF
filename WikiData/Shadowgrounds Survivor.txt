@@ -1,0 +1,2 @@
+Game: Shadowgrounds: Survivor
+Mode: Single-player

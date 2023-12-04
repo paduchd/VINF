@@ -1,0 +1,2 @@
+Game: Hearts of Iron II
+Mode: Single-player

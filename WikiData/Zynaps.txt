@@ -1,0 +1,2 @@
+Game: Zynaps
+Mode: Single Player

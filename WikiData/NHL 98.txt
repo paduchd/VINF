@@ -1,0 +1,2 @@
+Game: NHL 98
+Mode: Single-player

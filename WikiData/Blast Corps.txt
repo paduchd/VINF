@@ -1,0 +1,2 @@
+Game: Blast Corps
+Mode: Single-player

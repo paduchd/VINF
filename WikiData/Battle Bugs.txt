@@ -1,0 +1,2 @@
+Game: Battle Bugs
+Mode: Single-player

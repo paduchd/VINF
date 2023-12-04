@@ -1,0 +1,2 @@
+Game: Duke Nukem Advance
+Mode: Single player

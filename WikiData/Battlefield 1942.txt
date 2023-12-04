@@ -1,0 +1,2 @@
+Game: Battlefield 1942
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Rising Kingdoms
+Mode: Single-player

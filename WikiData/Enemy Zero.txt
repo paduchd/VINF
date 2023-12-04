@@ -1,0 +1,2 @@
+Game: Enemy Zero
+Mode: Single player

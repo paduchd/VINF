@@ -1,0 +1,2 @@
+Game: Age of Mythology
+Mode: Single-player

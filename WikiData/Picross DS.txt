@@ -1,0 +1,2 @@
+Game: Picross DS
+Mode: Single player

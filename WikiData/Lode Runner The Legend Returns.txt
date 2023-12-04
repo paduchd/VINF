@@ -1,0 +1,2 @@
+Game: Lode Runner: The Legend Returns
+Mode: Single-player

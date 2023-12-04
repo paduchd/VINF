@@ -1,0 +1,2 @@
+Game: Castle Shikigami 2
+Mode: Single-player

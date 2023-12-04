@@ -1,0 +1,2 @@
+Game: Hyperspeed
+Mode: Single player

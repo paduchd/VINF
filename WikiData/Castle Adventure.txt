@@ -1,0 +1,2 @@
+Game: Castle Adventure
+Mode: Single-player

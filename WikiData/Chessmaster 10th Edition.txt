@@ -1,0 +1,2 @@
+Game: Chessmaster 10th Edition
+Mode: Single-player

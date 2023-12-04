@@ -1,0 +1,2 @@
+Game: Master of Magic
+Mode: Single-player

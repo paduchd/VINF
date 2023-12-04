@@ -1,0 +1,2 @@
+Game: Castlevania: Bloodlines
+Mode: Single-player

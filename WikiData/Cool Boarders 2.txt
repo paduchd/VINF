@@ -1,0 +1,2 @@
+Game: Cool Boarders 2
+Mode: Single-player

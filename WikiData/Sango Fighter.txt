@@ -1,0 +1,2 @@
+Game: Sango Fighter
+Mode: Single player

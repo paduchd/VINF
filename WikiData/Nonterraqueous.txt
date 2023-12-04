@@ -1,0 +1,2 @@
+Game: Nonterraqueous
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Heart of Africa
+Mode: Single-player

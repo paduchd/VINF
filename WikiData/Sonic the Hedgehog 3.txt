@@ -1,0 +1,2 @@
+Game: Sonic the Hedgehog 3
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Microsoft Flight Simulator for Windows 95
+Mode: Single-player

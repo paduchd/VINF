@@ -1,0 +1,2 @@
+Game: Rick Dangerous
+Mode: Single-player

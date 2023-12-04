@@ -1,0 +1,2 @@
+Game: Earl Weaver Baseball
+Mode: Single-player

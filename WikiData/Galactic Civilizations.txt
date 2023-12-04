@@ -1,0 +1,2 @@
+Game: Galactic Civilizations
+Mode: Single player

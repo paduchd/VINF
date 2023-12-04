@@ -1,0 +1,2 @@
+Game: Conflict: Europe
+Mode: Single-player

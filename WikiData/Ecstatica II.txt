@@ -1,0 +1,2 @@
+Game: Ecstatica II
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Phantasie
+Mode: Single-player

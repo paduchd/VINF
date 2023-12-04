@@ -1,0 +1,2 @@
+Game: Divine Divinity
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Master of Orion
+Mode: Single-player

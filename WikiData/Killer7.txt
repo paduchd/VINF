@@ -1,0 +1,2 @@
+Game: Killer7
+Mode: Single-player

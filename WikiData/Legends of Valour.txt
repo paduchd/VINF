@@ -1,0 +1,2 @@
+Game: Legends of Valour
+Mode: Single-player

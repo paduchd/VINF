@@ -1,0 +1,2 @@
+Game: Fountain of Dreams
+Mode: Single-player

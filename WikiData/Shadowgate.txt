@@ -1,0 +1,2 @@
+Game: Shadowgate
+Mode: single-player video game|Single-player

@@ -1,0 +1,2 @@
+Game: Tekken 2
+Mode: Single-player

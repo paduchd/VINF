@@ -1,0 +1,2 @@
+Game: Shenmue II
+Mode: Single-player

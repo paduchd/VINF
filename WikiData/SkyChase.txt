@@ -1,0 +1,2 @@
+Game: SkyChase
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Tux Racer
+Mode: Single-player video game|Single-player

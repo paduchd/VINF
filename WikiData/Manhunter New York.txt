@@ -1,0 +1,2 @@
+Game: Manhunter: New York
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Pools of Darkness
+Mode: Single-player

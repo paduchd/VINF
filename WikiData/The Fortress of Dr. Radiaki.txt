@@ -1,0 +1,2 @@
+Game: The Fortress of Dr. Radiaki
+Mode: Single-player

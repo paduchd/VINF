@@ -1,0 +1,2 @@
+Game: Ninja Spirit
+Mode: Single-player

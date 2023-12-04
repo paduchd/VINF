@@ -1,0 +1,2 @@
+Game: War Wind
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Traffic Giant
+Mode: Single-player video game|Single-player

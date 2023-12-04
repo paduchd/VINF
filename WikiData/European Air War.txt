@@ -1,0 +1,2 @@
+Game: European Air War
+Mode: Single-player

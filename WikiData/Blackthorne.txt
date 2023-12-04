@@ -1,0 +1,2 @@
+Game: Blackthorne
+Mode: Single-player

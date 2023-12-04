@@ -1,0 +1,2 @@
+Game: Techno Cop
+Mode: Single-player video game|Single-player

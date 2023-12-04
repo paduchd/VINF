@@ -1,0 +1,2 @@
+Game: Turrican II: The Final Fight
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Wizard of Wor
+Mode: Single-player

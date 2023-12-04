@@ -1,0 +1,2 @@
+Game: Spindizzy
+Mode: Single-player

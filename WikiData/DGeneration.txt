@@ -1,0 +1,2 @@
+Game: D/Generation
+Mode: Single-player video game|Single-player

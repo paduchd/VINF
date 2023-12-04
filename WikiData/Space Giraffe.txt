@@ -1,0 +1,2 @@
+Game: Space Giraffe
+Mode: Single-player

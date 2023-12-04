@@ -1,0 +1,2 @@
+Game: Donkey Kong Jr. Math
+Mode: Single-player

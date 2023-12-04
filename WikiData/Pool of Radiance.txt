@@ -1,0 +1,2 @@
+Game: Pool of Radiance
+Mode: Single-player

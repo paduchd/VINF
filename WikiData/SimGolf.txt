@@ -1,0 +1,2 @@
+Game: SimGolf
+Mode: Single-player

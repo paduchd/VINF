@@ -1,0 +1,2 @@
+Game: I-Ninja
+Mode: Single-player

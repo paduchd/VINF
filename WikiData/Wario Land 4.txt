@@ -1,0 +1,2 @@
+Game: Wario Land 4
+Mode: Single-player

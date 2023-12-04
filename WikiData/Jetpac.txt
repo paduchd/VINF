@@ -1,0 +1,2 @@
+Game: Jetpac
+Mode: Single-player video game|Single-player

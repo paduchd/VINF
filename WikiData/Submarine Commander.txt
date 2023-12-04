@@ -1,0 +1,2 @@
+Game: Submarine Commander
+Mode: single-player video game|Single-player

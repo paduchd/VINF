@@ -1,0 +1,2 @@
+Game: ABPA Backgammon
+Mode: Single-player video game|Single-player

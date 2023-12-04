@@ -1,0 +1,2 @@
+Game: Brutal Sports Football
+Mode: Single-player

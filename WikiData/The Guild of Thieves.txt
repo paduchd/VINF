@@ -1,0 +1,2 @@
+Game: The Guild of Thieves
+Mode: Single-player

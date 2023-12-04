@@ -1,0 +1,2 @@
+Game: Times of Lore
+Mode: Single-player

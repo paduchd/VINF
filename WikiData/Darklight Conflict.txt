@@ -1,0 +1,2 @@
+Game: Darklight Conflict
+Mode: Single player

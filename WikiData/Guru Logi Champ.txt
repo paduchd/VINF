@@ -1,0 +1,2 @@
+Game: Guru Logi Champ
+Mode: Single player

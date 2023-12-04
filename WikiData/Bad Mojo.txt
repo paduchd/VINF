@@ -1,0 +1,2 @@
+Game: Bad Mojo
+Mode: Single-player

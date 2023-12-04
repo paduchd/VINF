@@ -1,0 +1,2 @@
+Game: Mario Party 5
+Mode: Single-player

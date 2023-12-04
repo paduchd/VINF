@@ -1,0 +1,2 @@
+Game: ZZT
+Mode: Single-player

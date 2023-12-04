@@ -1,0 +1,2 @@
+Game: Samorost 2
+Mode: Single-player

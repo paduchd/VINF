@@ -1,0 +1,2 @@
+Game: Rimrunner
+Mode: Single-player

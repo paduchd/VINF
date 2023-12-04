@@ -1,0 +1,2 @@
+Game: Primal Rage
+Mode: Single-player

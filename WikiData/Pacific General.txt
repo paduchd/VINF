@@ -1,0 +1,2 @@
+Game: Pacific General
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Stronghold Legends
+Mode: Single-player

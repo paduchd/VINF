@@ -1,0 +1,2 @@
+Game: Wishbringer
+Mode: Single-player

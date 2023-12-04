@@ -1,0 +1,2 @@
+Game: SWAT 4
+Mode: Single-player

@@ -8,10 +8,13 @@ from org.apache.lucene.document import Document, Field, TextField, StringField, 
 from org.apache.lucene.search import IndexSearcher, BooleanQuery, BooleanClause, Sort, SortField
 from org.apache.lucene.queryparser.classic import QueryParser
 import csv
+import os
 
 lucene.initVM()
 
 indexDirectory = r'index'
+if not os.path.exists(indexDirectory):
+            os.mkdir('index')
 indexPath = Paths.get(indexDirectory)
 dir = FSDirectory.open(Paths.get(indexDirectory))
 
@@ -97,6 +100,20 @@ def getGameByDeveloper(developer):
         print(f"\t\tMobyScore - {doc.get('MobyScore')}")
         print(f"\t\tCriticScore - {doc.get('CriticsScore')}")
 
-getDescTrivia("The X-Files Game (1998)")
-getGameNamesByGenrePerspective("Action", "1st-person")
-getGameByDeveloper("Psygnosis Limited")
+# Query 4: Get all games with matching game mode
+def getGameByMode(mode):
+    searcher = IndexSearcher(DirectoryReader.open(dir))
+
+    query = QueryParser("GameMode", analyzer).parse(f"{mode}")
+
+    results = searcher.search(query, Integer.MAX_VALUE)
+
+    print(f"Games with matching game mode:")
+    for game in results.scoreDocs:
+        doc = searcher.doc(game.doc)
+        print(f"\t{doc.get('Name')}")
+
+# getDescTrivia("The X-Files Game (1998)")
+# getGameNamesByGenrePerspective("Action", "1st-person")
+# getGameByDeveloper("Psygnosis Limited")
+getGameByMode("Multiplayer")

@@ -1,0 +1,2 @@
+Game: Nuclear Strike
+Mode: Single-player

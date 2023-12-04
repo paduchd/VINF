@@ -1,0 +1,2 @@
+Game: Sonic Advance 3
+Mode: Single-player

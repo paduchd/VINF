@@ -1,0 +1,2 @@
+Game: Shard of Spring
+Mode: Single-player

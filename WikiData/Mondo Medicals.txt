@@ -1,0 +1,2 @@
+Game: Mondo Medicals
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Tekken 3
+Mode: Single-player

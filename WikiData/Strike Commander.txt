@@ -1,0 +1,2 @@
+Game: Strike Commander
+Mode: Single-player

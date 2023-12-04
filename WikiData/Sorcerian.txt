@@ -1,0 +1,2 @@
+Game: Sorcerian
+Mode: Single-player

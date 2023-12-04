@@ -1,0 +1,2 @@
+Game: Arcade Party Pak
+Mode: Single player

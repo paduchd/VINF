@@ -1,0 +1,2 @@
+Game: Star Wars: Rebel Assault
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Colony Wars
+Mode: Single-player

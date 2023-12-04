@@ -1,0 +1,2 @@
+Game: Dragon Crystal
+Mode: Single-player

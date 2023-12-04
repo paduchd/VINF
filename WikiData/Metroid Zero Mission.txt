@@ -1,0 +1,2 @@
+Game: Metroid: Zero Mission
+Mode: Single-player

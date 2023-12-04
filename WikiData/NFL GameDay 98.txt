@@ -1,0 +1,2 @@
+Game: NFL GameDay 98
+Mode: Single-player

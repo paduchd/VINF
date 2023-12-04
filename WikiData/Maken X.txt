@@ -1,0 +1,2 @@
+Game: Maken X
+Mode: Single player

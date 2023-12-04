@@ -1,0 +1,2 @@
+Game: Gates of Zendocon
+Mode: Single-player video game|Single-player

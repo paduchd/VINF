@@ -1,0 +1,2 @@
+Game: Red Dead Revolver
+Mode: Single-player

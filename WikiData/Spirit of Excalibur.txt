@@ -1,0 +1,2 @@
+Game: Spirit of Excalibur
+Mode: Single-player

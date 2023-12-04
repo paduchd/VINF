@@ -1,0 +1,2 @@
+Game: Virtual Kasparov
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Carnivores 2
+Mode: Single-player

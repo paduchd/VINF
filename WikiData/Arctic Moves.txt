@@ -1,0 +1,2 @@
+Game: Arctic Moves
+Mode: Single-player

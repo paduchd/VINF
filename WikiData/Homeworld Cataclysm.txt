@@ -1,0 +1,2 @@
+Game: Homeworld: Cataclysm
+Mode: Single-player

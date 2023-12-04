@@ -1,0 +1,2 @@
+Game: Bombuzal
+Mode: Single-player video game|Single player

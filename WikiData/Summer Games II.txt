@@ -1,0 +1,2 @@
+Game: Summer Games II
+Mode: Single-player

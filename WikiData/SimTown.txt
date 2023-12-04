@@ -1,0 +1,2 @@
+Game: SimTown
+Mode: Single-player

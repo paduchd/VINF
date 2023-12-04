@@ -1,0 +1,2 @@
+Game: Bandit Kings of Ancient China
+Mode: Single-player

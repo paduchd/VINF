@@ -1,0 +1,2 @@
+Game: StarCraft: Brood War
+Mode: Single-player

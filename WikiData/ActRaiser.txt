@@ -1,0 +1,2 @@
+Game: ActRaiser
+Mode: Single-player

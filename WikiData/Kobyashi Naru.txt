@@ -1,0 +1,2 @@
+Game: Kobyashi Naru
+Mode: Single-player

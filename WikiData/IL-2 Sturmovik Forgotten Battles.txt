@@ -1,0 +1,2 @@
+Game: IL-2 Sturmovik: Forgotten Battles
+Mode: Single-player

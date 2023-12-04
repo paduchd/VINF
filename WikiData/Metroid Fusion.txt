@@ -1,0 +1,2 @@
+Game: Metroid Fusion
+Mode: Single-player

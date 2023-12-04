@@ -1,0 +1,2 @@
+Game: Universal Studios Theme Parks Adventure
+Mode: Single-player

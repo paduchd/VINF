@@ -1,0 +1,2 @@
+Game: Die Kathedrale
+Mode: Single-player video game|Single-player

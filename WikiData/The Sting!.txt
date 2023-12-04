@@ -1,0 +1,2 @@
+Game: The Sting!
+Mode: Single-player

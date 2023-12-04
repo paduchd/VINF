@@ -1,0 +1,2 @@
+Game: Y2K: The Game
+Mode: Single-player

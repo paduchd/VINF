@@ -1,0 +1,2 @@
+Game: Virtua Cop 2
+Mode: Single-player

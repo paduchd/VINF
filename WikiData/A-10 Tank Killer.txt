@@ -1,0 +1,2 @@
+Game: A-10 Tank Killer
+Mode: Single-player

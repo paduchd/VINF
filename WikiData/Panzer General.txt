@@ -1,0 +1,2 @@
+Game: Panzer General
+Mode: Single-player

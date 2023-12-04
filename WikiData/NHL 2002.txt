@@ -1,0 +1,2 @@
+Game: NHL 2002
+Mode: Single-player

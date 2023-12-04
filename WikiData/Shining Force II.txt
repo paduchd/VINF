@@ -1,0 +1,2 @@
+Game: Shining Force II
+Mode: Single-player

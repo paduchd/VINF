@@ -1,0 +1,2 @@
+Game: Pyjamarama
+Mode: Single-player

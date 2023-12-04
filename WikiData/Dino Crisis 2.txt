@@ -1,0 +1,2 @@
+Game: Dino Crisis 2
+Mode: Single-player

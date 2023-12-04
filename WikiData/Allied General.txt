@@ -1,0 +1,2 @@
+Game: Allied General
+Mode: Single-player

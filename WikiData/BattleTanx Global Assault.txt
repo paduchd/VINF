@@ -1,0 +1,2 @@
+Game: BattleTanx: Global Assault
+Mode: Single player

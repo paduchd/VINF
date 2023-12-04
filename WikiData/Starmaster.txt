@@ -1,0 +1,2 @@
+Game: Starmaster
+Mode: Single-player video game|Single-player

@@ -1,0 +1,2 @@
+Game: Icewind Dale: Heart of Winter
+Mode: Single-player

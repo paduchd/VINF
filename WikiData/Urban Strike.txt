@@ -1,0 +1,2 @@
+Game: Urban Strike
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Jack Bros.
+Mode: Single-player

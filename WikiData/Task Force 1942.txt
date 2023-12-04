@@ -1,0 +1,2 @@
+Game: Task Force 1942
+Mode: Single-player

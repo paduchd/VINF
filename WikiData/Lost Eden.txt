@@ -1,0 +1,2 @@
+Game: Lost Eden
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Noctropolis
+Mode: Single-player video game|Single-player

@@ -1,0 +1,2 @@
+Game: Blazing Lazers
+Mode: Single-player video game|Single-player

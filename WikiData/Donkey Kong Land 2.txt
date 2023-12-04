@@ -1,0 +1,2 @@
+Game: Donkey Kong Land 2
+Mode: Single-player

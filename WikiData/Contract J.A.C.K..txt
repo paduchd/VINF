@@ -1,0 +1,2 @@
+Game: Contract J.A.C.K.
+Mode: Single-player

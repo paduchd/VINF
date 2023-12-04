@@ -1,0 +1,2 @@
+Game: Sensible Golf
+Mode: Single-player

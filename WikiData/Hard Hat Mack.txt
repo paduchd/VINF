@@ -1,0 +1,2 @@
+Game: Hard Hat Mack
+Mode: Single-player

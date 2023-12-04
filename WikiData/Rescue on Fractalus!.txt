@@ -1,0 +1,2 @@
+Game: Rescue on Fractalus!
+Mode: Single-player

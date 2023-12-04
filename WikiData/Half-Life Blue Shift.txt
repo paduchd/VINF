@@ -1,0 +1,2 @@
+Game: Half-Life: Blue Shift
+Mode: Single-player

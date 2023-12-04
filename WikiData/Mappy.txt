@@ -1,0 +1,2 @@
+Game: Mappy
+Mode: Single-player

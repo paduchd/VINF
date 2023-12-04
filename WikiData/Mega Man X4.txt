@@ -1,0 +1,2 @@
+Game: Mega Man X4
+Mode: Single-player

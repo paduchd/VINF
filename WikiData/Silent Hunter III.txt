@@ -1,0 +1,2 @@
+Game: Silent Hunter III
+Mode: Single player

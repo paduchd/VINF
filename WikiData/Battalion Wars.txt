@@ -1,0 +1,2 @@
+Game: Battalion Wars
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Phantasy Star Online
+Mode: Single-player

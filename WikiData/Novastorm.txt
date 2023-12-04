@@ -1,0 +1,2 @@
+Game: Novastorm
+Mode: Single-player

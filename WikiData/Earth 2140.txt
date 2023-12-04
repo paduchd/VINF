@@ -1,0 +1,2 @@
+Game: Earth 2140
+Mode: Single-player

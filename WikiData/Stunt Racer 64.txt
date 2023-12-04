@@ -1,0 +1,2 @@
+Game: Stunt Racer 64
+Mode: Single-player

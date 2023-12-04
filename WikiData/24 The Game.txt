@@ -1,0 +1,2 @@
+Game: 24: The Game
+Mode: Single-player

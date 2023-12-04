@@ -1,0 +1,2 @@
+Game: Hospital Tycoon
+Mode: Single-player

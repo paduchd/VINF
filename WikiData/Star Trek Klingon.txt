@@ -1,0 +1,2 @@
+Game: Star Trek: Klingon
+Mode: Single-player

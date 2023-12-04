@@ -1,0 +1,2 @@
+Game: FX Fighter
+Mode: Single player

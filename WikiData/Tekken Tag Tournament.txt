@@ -1,0 +1,2 @@
+Game: Tekken Tag Tournament
+Mode: Single-player

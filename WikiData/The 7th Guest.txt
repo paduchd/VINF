@@ -1,0 +1,2 @@
+Game: The 7th Guest
+Mode: Single-player

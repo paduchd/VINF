@@ -1,0 +1,2 @@
+Game: Nintendo World Cup
+Mode: Tournament

@@ -1,0 +1,2 @@
+Game: G-Police
+Mode: Single-player video game|Single-player

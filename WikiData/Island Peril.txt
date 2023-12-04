@@ -1,0 +1,2 @@
+Game: Island Peril
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: CTU: Marine Sharpshooter
+Mode: Single-player

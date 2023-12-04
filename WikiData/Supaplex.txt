@@ -1,0 +1,2 @@
+Game: Supaplex
+Mode: Single player

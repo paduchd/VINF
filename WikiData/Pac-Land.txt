@@ -1,0 +1,2 @@
+Game: Pac-Land
+Mode: Single-player

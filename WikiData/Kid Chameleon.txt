@@ -1,0 +1,2 @@
+Game: Kid Chameleon
+Mode: Single player

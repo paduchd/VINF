@@ -1,0 +1,2 @@
+Game: Pinball Dreams
+Mode: Single-player

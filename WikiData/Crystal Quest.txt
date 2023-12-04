@@ -1,0 +1,2 @@
+Game: Crystal Quest
+Mode: Single-player

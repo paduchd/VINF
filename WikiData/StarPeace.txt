@@ -1,0 +1,2 @@
+Game: StarPeace
+Mode: Massively multiplayer online game|MMO

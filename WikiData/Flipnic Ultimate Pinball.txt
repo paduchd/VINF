@@ -1,0 +1,2 @@
+Game: Flipnic: Ultimate Pinball
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Starsiege
+Mode: Single player

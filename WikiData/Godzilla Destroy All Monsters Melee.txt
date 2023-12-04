@@ -1,0 +1,2 @@
+Game: Godzilla: Destroy All Monsters Melee
+Mode: Single-player

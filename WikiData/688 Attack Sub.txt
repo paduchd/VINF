@@ -1,0 +1,2 @@
+Game: 688 Attack Sub
+Mode: Single-player

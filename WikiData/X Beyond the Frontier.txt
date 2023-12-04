@@ -1,0 +1,2 @@
+Game: X: Beyond the Frontier
+Mode: Single-player

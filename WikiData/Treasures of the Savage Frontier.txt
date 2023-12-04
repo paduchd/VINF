@@ -1,0 +1,2 @@
+Game: Treasures of the Savage Frontier
+Mode: Single-player

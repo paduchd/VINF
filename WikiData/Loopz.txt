@@ -1,0 +1,2 @@
+Game: Loopz
+Mode: Single-player video game|Single-player

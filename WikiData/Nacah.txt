@@ -1,0 +1,2 @@
+Game: Nacah
+Mode: Single-player video game

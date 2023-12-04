@@ -1,0 +1,2 @@
+Game: Diner Dash
+Mode: Single-player video game|Single-player

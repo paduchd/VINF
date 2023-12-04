@@ -1,0 +1,2 @@
+Game: Tactical Manager 2
+Mode: Single-player

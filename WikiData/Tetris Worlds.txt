@@ -1,0 +1,2 @@
+Game: Tetris Worlds
+Mode: Single-player

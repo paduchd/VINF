@@ -1,0 +1,2 @@
+Game: Discworld Noir
+Mode: Single-player

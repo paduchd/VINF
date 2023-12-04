@@ -1,0 +1,2 @@
+Game: Chrono Trigger
+Mode: Single-player

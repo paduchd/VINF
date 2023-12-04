@@ -1,0 +1,2 @@
+Game: Moto Racer
+Mode: Single-player video game|Single-player

@@ -1,0 +1,2 @@
+Game: Obitus
+Mode: Single-player

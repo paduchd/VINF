@@ -1,0 +1,2 @@
+Game: Starlancer
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Corpse Killer
+Mode: Single-player

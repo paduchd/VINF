@@ -1,0 +1,2 @@
+Game: Sonic Advance 2
+Mode: Single player

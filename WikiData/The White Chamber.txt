@@ -1,0 +1,2 @@
+Game: The White Chamber
+Mode: Single-player

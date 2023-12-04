@@ -1,0 +1,2 @@
+Game: Duke Nukem: Manhattan Project
+Mode: Single-player

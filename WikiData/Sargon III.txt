@@ -1,0 +1,2 @@
+Game: Sargon III
+Mode: Single-player

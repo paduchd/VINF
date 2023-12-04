@@ -1,0 +1,2 @@
+Game: State of Emergency 2
+Mode: Single-player

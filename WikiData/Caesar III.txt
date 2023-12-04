@@ -1,0 +1,2 @@
+Game: Caesar III
+Mode: Single-player

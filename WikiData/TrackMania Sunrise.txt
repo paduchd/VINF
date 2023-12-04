@@ -1,0 +1,2 @@
+Game: TrackMania Sunrise
+Mode: Single-player

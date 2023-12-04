@@ -1,0 +1,2 @@
+Game: Far Gate
+Mode: Single-player

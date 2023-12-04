@@ -1,0 +1,2 @@
+Game: Shadow Master
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: System Shock
+Mode: Single-player

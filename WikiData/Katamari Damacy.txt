@@ -1,0 +1,2 @@
+Game: Katamari Damacy
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Alice: An Interactive Museum
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Darkmere
+Mode: Single player

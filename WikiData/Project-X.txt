@@ -1,0 +1,2 @@
+Game: Project-X
+Mode: Single player

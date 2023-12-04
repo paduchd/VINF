@@ -1,0 +1,2 @@
+Game: Arkanoid
+Mode: Single-player video game|Single-player

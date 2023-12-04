@@ -1,0 +1,2 @@
+Game: Star Trek: Starfleet Command
+Mode: Single-player

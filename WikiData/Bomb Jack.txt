@@ -1,0 +1,2 @@
+Game: Bomb Jack
+Mode: Single-player

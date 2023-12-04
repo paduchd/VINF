@@ -1,0 +1,2 @@
+Game: Ghost Master
+Mode: Single-player

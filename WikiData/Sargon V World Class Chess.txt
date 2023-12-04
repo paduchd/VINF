@@ -1,0 +1,2 @@
+Game: Sargon V: World Class Chess
+Mode: Single-player

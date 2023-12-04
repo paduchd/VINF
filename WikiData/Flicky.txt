@@ -1,0 +1,2 @@
+Game: Flicky
+Mode: Single-player video game|Single-player

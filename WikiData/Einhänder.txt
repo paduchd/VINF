@@ -1,0 +1,2 @@
+Game: Einhänder
+Mode: Single-player

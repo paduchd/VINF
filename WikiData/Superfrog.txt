@@ -1,0 +1,2 @@
+Game: Superfrog
+Mode: Single-player

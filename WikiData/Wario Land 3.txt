@@ -1,0 +1,2 @@
+Game: Wario Land 3
+Mode: Single-player

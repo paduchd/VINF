@@ -1,0 +1,2 @@
+Game: Star Fox Adventures
+Mode: Single-player

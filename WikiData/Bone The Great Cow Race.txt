@@ -1,0 +1,2 @@
+Game: Bone: The Great Cow Race
+Mode: Single-player

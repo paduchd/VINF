@@ -1,0 +1,2 @@
+Game: Chrono Quest
+Mode: Single-player

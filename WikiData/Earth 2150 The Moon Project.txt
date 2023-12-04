@@ -1,0 +1,2 @@
+Game: Earth 2150: The Moon Project
+Mode: Single player

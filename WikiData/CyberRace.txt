@@ -1,0 +1,2 @@
+Game: CyberRace
+Mode: Single-player

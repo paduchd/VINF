@@ -1,0 +1,2 @@
+Game: Skies of Arcadia
+Mode: Single-player

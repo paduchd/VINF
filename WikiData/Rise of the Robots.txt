@@ -1,0 +1,2 @@
+Game: Rise of the Robots
+Mode: Single player

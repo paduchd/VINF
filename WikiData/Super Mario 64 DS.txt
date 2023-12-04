@@ -1,0 +1,2 @@
+Game: Super Mario 64 DS
+Mode: Single-player

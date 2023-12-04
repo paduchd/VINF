@@ -1,0 +1,2 @@
+Game: Battlestations: Midway
+Mode: Single-player

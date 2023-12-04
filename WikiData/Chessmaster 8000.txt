@@ -1,0 +1,2 @@
+Game: Chessmaster 8000
+Mode: Single-player

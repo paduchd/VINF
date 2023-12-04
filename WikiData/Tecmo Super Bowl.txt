@@ -1,0 +1,2 @@
+Game: Tecmo Super Bowl
+Mode: Single-player

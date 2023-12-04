@@ -1,0 +1,2 @@
+Game: Splatterhouse 2
+Mode: Single-player

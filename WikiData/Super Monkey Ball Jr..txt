@@ -1,0 +1,2 @@
+Game: Super Monkey Ball Jr.
+Mode: Single-player

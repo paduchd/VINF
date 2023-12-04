@@ -1,0 +1,2 @@
+Game: Armadillo Run
+Mode: Single-player

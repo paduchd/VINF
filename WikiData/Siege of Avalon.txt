@@ -1,0 +1,2 @@
+Game: Siege of Avalon
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Warhammer 40,000: Rites of War
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Nexuiz
+Mode: Single-player

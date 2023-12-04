@@ -1,0 +1,2 @@
+Game: Final Fantasy VII
+Mode: Single-player

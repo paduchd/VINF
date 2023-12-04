@@ -1,0 +1,2 @@
+Game: Hired Guns
+Mode: Single-player

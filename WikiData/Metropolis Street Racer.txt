@@ -1,0 +1,2 @@
+Game: Metropolis Street Racer
+Mode: Single-player

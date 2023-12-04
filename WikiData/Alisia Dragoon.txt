@@ -1,0 +1,2 @@
+Game: Alisia Dragoon
+Mode: Single-player

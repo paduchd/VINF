@@ -1,0 +1,2 @@
+Game: Amberstar
+Mode: Single player

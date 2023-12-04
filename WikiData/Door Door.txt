@@ -1,0 +1,2 @@
+Game: Door Door
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Phoenix Wright: Ace Attorney
+Mode: Single-player

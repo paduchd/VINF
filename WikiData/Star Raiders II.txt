@@ -1,0 +1,2 @@
+Game: Star Raiders II
+Mode: Single-player

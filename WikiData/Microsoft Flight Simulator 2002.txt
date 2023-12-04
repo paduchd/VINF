@@ -1,0 +1,2 @@
+Game: Microsoft Flight Simulator 2002
+Mode: Single-player

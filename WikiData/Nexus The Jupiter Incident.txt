@@ -1,0 +1,2 @@
+Game: Nexus: The Jupiter Incident
+Mode: Single player

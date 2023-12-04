@@ -1,0 +1,2 @@
+Game: Worms 4: Mayhem
+Mode: Single-player

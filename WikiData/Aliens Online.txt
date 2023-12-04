@@ -1,0 +1,2 @@
+Game: Aliens Online
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: Resistance: Fall of Man
+Mode: Single-player

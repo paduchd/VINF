@@ -1,0 +1,2 @@
+Game: Blitz: The League
+Mode: Single player

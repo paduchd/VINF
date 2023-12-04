@@ -1,0 +1,2 @@
+Game: Betrayal at Krondor
+Mode: Single-player

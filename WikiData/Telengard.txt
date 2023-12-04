@@ -1,0 +1,2 @@
+Game: Telengard
+Mode: Single-player

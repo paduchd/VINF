@@ -1,0 +1,2 @@
+Game: Sonic the Hedgehog 2
+Mode: Single-player

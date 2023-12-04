@@ -1,0 +1,2 @@
+Game: Castlevania: Circle of the Moon
+Mode: Single-player

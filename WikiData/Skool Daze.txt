@@ -1,0 +1,2 @@
+Game: Skool Daze
+Mode: Single-player

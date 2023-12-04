@@ -1,0 +1,2 @@
+Game: Psychotoxic
+Mode: Single-player

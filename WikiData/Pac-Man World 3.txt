@@ -1,0 +1,2 @@
+Game: Pac-Man World 3
+Mode: Single-player

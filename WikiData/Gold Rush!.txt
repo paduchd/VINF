@@ -1,0 +1,2 @@
+Game: Gold Rush!
+Mode: Single-player

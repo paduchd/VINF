@@ -1,0 +1,2 @@
+Game: Fuzion Frenzy 2
+Mode: Single player

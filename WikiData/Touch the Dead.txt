@@ -1,0 +1,2 @@
+Game: Touch the Dead
+Mode: Single player

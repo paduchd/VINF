@@ -1,0 +1,2 @@
+Game: Street Fighter EX3
+Mode: Single-player

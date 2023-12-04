@@ -1,0 +1,2 @@
+Game: Gunvalkyrie
+Mode: Single-player video game|Single-player

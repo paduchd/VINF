@@ -1,0 +1,2 @@
+Game: Persian Gulf Inferno
+Mode: Single-player

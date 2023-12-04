@@ -1,0 +1,2 @@
+Game: Adventure Pinball: Forgotten Island
+Mode: Single-player

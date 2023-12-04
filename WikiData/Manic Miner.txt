@@ -1,0 +1,2 @@
+Game: Manic Miner
+Mode: Single-player

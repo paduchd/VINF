@@ -1,0 +1,2 @@
+Game: Hopkins FBI
+Mode: Single player

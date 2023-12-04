@@ -1,0 +1,2 @@
+Game: Chopper Command
+Mode: Single-player

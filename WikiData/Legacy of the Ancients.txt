@@ -1,0 +1,2 @@
+Game: Legacy of the Ancients
+Mode: Single-player

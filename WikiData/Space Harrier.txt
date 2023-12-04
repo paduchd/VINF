@@ -1,0 +1,2 @@
+Game: Space Harrier
+Mode: Single-player video game|Single-player

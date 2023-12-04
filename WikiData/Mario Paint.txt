@@ -1,0 +1,2 @@
+Game: Mario Paint
+Mode: Single-player video game|Single-player

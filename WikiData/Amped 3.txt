@@ -1,0 +1,2 @@
+Game: Amped 3
+Mode: Single-player video game|Single-player

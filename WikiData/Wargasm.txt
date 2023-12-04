@@ -1,0 +1,2 @@
+Game: Wargasm
+Mode: Single-player

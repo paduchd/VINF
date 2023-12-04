@@ -1,0 +1,2 @@
+Game: Turok: Rage Wars
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Xenogears
+Mode: Single-player

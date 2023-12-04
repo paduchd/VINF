@@ -1,0 +1,2 @@
+Game: Dragon Force
+Mode: Single-player

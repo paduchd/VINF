@@ -1,0 +1,2 @@
+Game: Comix Zone
+Mode: Single-player

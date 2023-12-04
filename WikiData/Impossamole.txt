@@ -1,0 +1,2 @@
+Game: Impossamole
+Mode: Single-player video game|Single-player

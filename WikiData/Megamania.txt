@@ -1,0 +1,2 @@
+Game: Megamania
+Mode: Single-player

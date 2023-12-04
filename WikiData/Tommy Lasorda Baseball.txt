@@ -1,0 +1,2 @@
+Game: Tommy Lasorda Baseball
+Mode: Single-player

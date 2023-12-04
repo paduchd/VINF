@@ -1,0 +1,2 @@
+Game: Battlezone II: Combat Commander
+Mode: Single-player

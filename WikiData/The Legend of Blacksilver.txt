@@ -1,0 +1,2 @@
+Game: The Legend of Blacksilver
+Mode: Single-player

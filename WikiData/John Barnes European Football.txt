@@ -1,0 +1,2 @@
+Game: John Barnes European Football
+Mode: Single-player|1

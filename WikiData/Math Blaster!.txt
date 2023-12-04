@@ -1,0 +1,2 @@
+Game: Math Blaster!
+Mode: Single-player

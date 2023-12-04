@@ -1,0 +1,2 @@
+Game: MegaTraveller 1: The Zhodani Conspiracy
+Mode: Single player

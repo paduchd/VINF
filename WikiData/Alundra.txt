@@ -1,0 +1,2 @@
+Game: Alundra
+Mode: Single player video game|Single-player

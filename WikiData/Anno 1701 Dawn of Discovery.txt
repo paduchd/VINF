@@ -1,0 +1,2 @@
+Game: Anno 1701: Dawn of Discovery
+Mode: Single-player

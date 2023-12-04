@@ -1,0 +1,2 @@
+Game: The Hound of Shadow
+Mode: Single-player

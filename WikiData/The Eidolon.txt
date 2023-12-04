@@ -1,0 +1,2 @@
+Game: The Eidolon
+Mode: Single-player

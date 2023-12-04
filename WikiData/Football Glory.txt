@@ -1,0 +1,2 @@
+Game: Football Glory
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Rick Dangerous 2
+Mode: Single-player

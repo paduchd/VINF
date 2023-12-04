@@ -1,0 +1,2 @@
+Game: Red Baron II
+Mode: Single-player

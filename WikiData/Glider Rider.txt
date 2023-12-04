@@ -1,0 +1,2 @@
+Game: Glider Rider
+Mode: Single-player

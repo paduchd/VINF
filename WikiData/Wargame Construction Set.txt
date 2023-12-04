@@ -1,0 +1,2 @@
+Game: Wargame Construction Set
+Mode: Single-player

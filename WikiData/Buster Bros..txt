@@ -1,0 +1,2 @@
+Game: Buster Bros.
+Mode: Multiplayer

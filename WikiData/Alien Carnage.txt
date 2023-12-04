@@ -1,0 +1,2 @@
+Game: Alien Carnage
+Mode: Single-player

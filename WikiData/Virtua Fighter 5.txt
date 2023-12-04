@@ -1,0 +1,2 @@
+Game: Virtua Fighter 5
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Anachronox
+Mode: Single-player

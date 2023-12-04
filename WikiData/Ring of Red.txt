@@ -1,0 +1,2 @@
+Game: Ring of Red
+Mode: Single player

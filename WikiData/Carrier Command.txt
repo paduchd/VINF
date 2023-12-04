@@ -1,0 +1,2 @@
+Game: Carrier Command
+Mode: Single-player video game|Single-player

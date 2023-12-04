@@ -1,0 +1,2 @@
+Game: Halo 3
+Mode: Single-player

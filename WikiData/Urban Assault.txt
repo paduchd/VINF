@@ -1,0 +1,2 @@
+Game: Urban Assault
+Mode: Single-player

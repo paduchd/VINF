@@ -1,0 +1,2 @@
+Game: Saturn Bomberman
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Lemmings 2: The Tribes
+Mode: Single player

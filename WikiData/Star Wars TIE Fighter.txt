@@ -1,0 +1,2 @@
+Game: Star Wars: TIE Fighter
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: The Elder Scrolls III: Morrowind
+Mode: Single-player

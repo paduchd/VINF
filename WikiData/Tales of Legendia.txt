@@ -1,0 +1,2 @@
+Game: Tales of Legendia
+Mode: Single-player

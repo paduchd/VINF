@@ -1,0 +1,2 @@
+Game: Total Annihilation
+Mode: Single-player

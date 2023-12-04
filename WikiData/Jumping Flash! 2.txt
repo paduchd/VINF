@@ -1,0 +1,2 @@
+Game: Jumping Flash! 2
+Mode: Single player

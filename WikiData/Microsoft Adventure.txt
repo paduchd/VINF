@@ -1,0 +1,2 @@
+Game: Microsoft Adventure
+Mode: Single-player

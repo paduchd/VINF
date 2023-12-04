@@ -1,0 +1,2 @@
+Game: Reader Rabbit 2
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Mortal Kombat 3
+Mode: Single-player

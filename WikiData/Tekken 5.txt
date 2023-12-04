@@ -1,0 +1,2 @@
+Game: Tekken 5
+Mode: Single player

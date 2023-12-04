@@ -1,0 +1,2 @@
+Game: Moonstone: A Hard Days Knight
+Mode: Single-player

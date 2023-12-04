@@ -1,0 +1,2 @@
+Game: Jack Attack
+Mode: Single-player video game|Single-player

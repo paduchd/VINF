@@ -1,0 +1,2 @@
+Game: Capcom Puzzle World
+Mode: Single-player

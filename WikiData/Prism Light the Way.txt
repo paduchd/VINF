@@ -1,0 +1,2 @@
+Game: Prism: Light the Way
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Project Earth: Starmageddon
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Die Hard Arcade
+Mode: Single-player

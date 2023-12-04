@@ -1,0 +1,2 @@
+Game: M1 Tank Platoon
+Mode: Single-player

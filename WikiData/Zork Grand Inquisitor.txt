@@ -1,0 +1,2 @@
+Game: Zork: Grand Inquisitor
+Mode: Single-player

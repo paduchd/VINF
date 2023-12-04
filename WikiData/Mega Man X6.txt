@@ -1,0 +1,2 @@
+Game: Mega Man X6
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Knight Lore
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: F-Zero X
+Mode: Single-player

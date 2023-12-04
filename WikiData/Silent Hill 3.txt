@@ -1,0 +1,2 @@
+Game: Silent Hill 3
+Mode: Single-player

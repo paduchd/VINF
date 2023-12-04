@@ -1,0 +1,2 @@
+Game: EcoQuest: The Search for Cetus
+Mode: Single-player

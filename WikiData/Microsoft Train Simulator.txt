@@ -1,0 +1,2 @@
+Game: Microsoft Train Simulator
+Mode: Single player

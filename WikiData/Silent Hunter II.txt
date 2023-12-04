@@ -1,0 +1,2 @@
+Game: Silent Hunter II
+Mode: Single player

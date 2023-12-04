@@ -1,0 +1,2 @@
+Game: Annals of Rome
+Mode: Single-player

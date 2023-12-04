@@ -1,0 +1,2 @@
+Game: Ice Climber
+Mode: Single-player

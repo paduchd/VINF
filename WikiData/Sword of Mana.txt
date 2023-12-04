@@ -1,0 +1,2 @@
+Game: Sword of Mana
+Mode: Single-player

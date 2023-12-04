@@ -1,0 +1,2 @@
+Game: Worms 3D
+Mode: Single-player video game|Single-player

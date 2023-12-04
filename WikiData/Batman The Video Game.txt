@@ -1,0 +1,2 @@
+Game: Batman: The Video Game
+Mode: Single-player

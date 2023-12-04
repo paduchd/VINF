@@ -1,0 +1,2 @@
+Game: Graffiti Kingdom
+Mode: Single-player

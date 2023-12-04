@@ -1,0 +1,2 @@
+Game: Thunder Force II
+Mode: Single-player

@@ -8,7 +8,7 @@ from pyspark.sql.functions import expr
 
 # Create a spark session and read wiki dump data
 spark = SparkSession.builder.appName("wiki").config("spark.jars.packages", "com.databricks:spark-xml_2.12:0.15.0").getOrCreate()
-data = spark.read.format('xml').options(rowTag='page', charset='UTF-8').load("Wiki/enwiki-latest-pages-articles10.xml-p4045403p5399366")
+data = spark.read.format('xml').options(rowTag='page', charset='UTF-8').load("D:/wiki/enwiki-20231101-pages-articles-multistream.xml")
 
 # List of all crawled games
 gameNames = []
@@ -35,6 +35,7 @@ def getGameInformation(dataRow):
     # Write the extracted game mode into a file with corresponding name
     fileName = "WikiData/" + title + ".txt"
     if(gameModes != None):
+        print(str(dataRow['title']))
         with open(fileName, "w", encoding='utf-8') as file:
             file.write("Game: " + str(dataRow["title"]) + "\n")
             file.write("Mode: " + gameModes.groups()[0])

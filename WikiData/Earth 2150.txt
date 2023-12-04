@@ -1,0 +1,2 @@
+Game: Earth 2150
+Mode: Single player

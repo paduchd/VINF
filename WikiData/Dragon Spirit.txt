@@ -1,0 +1,2 @@
+Game: Dragon Spirit
+Mode: Single-player

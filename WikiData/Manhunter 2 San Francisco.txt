@@ -1,0 +1,2 @@
+Game: Manhunter 2: San Francisco
+Mode: Single-player

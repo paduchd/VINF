@@ -1,0 +1,2 @@
+Game: Air-Sea Battle
+Mode: Single-player

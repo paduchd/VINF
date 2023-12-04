@@ -1,0 +1,2 @@
+Game: Imperium Galactica II: Alliances
+Mode: Single-player

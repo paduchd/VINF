@@ -1,0 +1,2 @@
+Game: Comanche 4
+Mode: Single-player

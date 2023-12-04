@@ -1,0 +1,2 @@
+Game: SimIsle: Missions in the Rainforest
+Mode: Single-player

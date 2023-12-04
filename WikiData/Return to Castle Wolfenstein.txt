@@ -1,0 +1,2 @@
+Game: Return to Castle Wolfenstein
+Mode: Single-player

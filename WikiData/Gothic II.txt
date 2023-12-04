@@ -1,0 +1,2 @@
+Game: Gothic II
+Mode: Single-player

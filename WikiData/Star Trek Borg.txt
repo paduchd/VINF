@@ -1,0 +1,2 @@
+Game: Star Trek: Borg
+Mode: Single-player

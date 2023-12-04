@@ -1,0 +1,2 @@
+Game: Sonic Battle
+Mode: Single-player

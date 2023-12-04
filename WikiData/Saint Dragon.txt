@@ -1,0 +1,2 @@
+Game: Saint Dragon
+Mode: Single-player

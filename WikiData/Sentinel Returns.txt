@@ -1,0 +1,2 @@
+Game: Sentinel Returns
+Mode: Single-player

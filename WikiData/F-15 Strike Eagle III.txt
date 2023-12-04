@@ -1,0 +1,2 @@
+Game: F-15 Strike Eagle III
+Mode: Single-player

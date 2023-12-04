@@ -1,0 +1,2 @@
+Game: Battlefield 2
+Mode: Single-player

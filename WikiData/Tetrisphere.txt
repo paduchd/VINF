@@ -1,0 +1,2 @@
+Game: Tetrisphere
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Destination: Treasure Island
+Mode: Single player

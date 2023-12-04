@@ -1,0 +1,2 @@
+Game: Deflektor
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: BioShock
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Auf Wiedersehen Monty
+Mode: Single-player

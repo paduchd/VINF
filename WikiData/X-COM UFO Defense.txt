@@ -1,0 +1,2 @@
+Game: X-COM: UFO Defense
+Mode: Single-player

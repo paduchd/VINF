@@ -1,0 +1,2 @@
+Game: Seastalker
+Mode: Single-player video game|Single-player

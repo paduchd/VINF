@@ -1,0 +1,2 @@
+Game: Castle of the Winds
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Eric the Unready
+Mode: Single-player

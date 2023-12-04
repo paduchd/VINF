@@ -1,0 +1,2 @@
+Game: Arcomage
+Mode: Single-player

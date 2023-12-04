@@ -1,0 +1,2 @@
+Game: Live for Speed
+Mode: Single player

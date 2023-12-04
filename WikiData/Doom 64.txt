@@ -1,0 +1,2 @@
+Game: Doom 64
+Mode: Single-player

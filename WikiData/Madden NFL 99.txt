@@ -1,0 +1,2 @@
+Game: Madden NFL 99
+Mode: Single-player

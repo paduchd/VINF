@@ -1,0 +1,2 @@
+Game: Cool Spot
+Mode: Single-player video game|Single-player

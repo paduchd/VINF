@@ -1,0 +1,2 @@
+Game: Caesar IV
+Mode: Single-player

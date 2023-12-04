@@ -1,0 +1,2 @@
+Game: Starship Titanic
+Mode: single-player video game|Single-player

@@ -1,0 +1,2 @@
+Game: Cosmic Ark
+Mode: Single-player

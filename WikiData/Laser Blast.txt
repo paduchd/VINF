@@ -1,0 +1,2 @@
+Game: Laser Blast
+Mode: Single player video game|Single player

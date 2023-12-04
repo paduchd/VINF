@@ -1,0 +1,2 @@
+Game: Jazz Jackrabbit 2
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Jet Set Willy
+Mode: Single player

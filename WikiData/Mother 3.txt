@@ -1,0 +1,2 @@
+Game: Mother 3
+Mode: Single-player

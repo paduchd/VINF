@@ -1,0 +1,2 @@
+Game: Ninja Five-O
+Mode: Single player

@@ -1,0 +1,2 @@
+Game: NASL Soccer
+Mode: Multiplayer video game|Multiplayer

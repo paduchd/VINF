@@ -1,0 +1,2 @@
+Game: DemonStar
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Battle Arena Toshinden
+Mode: Single-player

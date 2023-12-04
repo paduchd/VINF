@@ -1,0 +1,2 @@
+Game: Emerald Dragon
+Mode: Single-player

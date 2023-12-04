@@ -1,0 +1,2 @@
+Game: X-COM: Terror from the Deep
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Quake II
+Mode: Single-player

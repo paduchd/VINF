@@ -1,0 +1,2 @@
+Game: Grim Fandango
+Mode: Single-player

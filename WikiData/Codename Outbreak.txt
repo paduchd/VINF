@@ -1,0 +1,2 @@
+Game: Codename: Outbreak
+Mode: Single-player

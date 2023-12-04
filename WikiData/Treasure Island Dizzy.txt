@@ -1,0 +1,2 @@
+Game: Treasure Island Dizzy
+Mode: Single player

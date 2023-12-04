@@ -1,0 +1,2 @@
+Game: Shinobi Legions
+Mode: Single-player

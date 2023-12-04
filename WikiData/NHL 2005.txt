@@ -1,0 +1,2 @@
+Game: NHL 2005
+Mode: Single-player

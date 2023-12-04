@@ -1,0 +1,2 @@
+Game: Super Mario All-Stars
+Mode: Single-player

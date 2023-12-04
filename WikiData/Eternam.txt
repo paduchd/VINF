@@ -1,0 +1,2 @@
+Game: Eternam
+Mode: Single-player

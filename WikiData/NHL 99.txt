@@ -1,0 +1,2 @@
+Game: NHL 99
+Mode: Single-player

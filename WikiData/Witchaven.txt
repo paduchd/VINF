@@ -1,0 +1,2 @@
+Game: Witchaven
+Mode: Single-player

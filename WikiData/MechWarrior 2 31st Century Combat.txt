@@ -1,0 +1,2 @@
+Game: MechWarrior 2: 31st Century Combat
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Vib-Ribbon
+Mode: Single-player

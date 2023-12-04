@@ -1,0 +1,2 @@
+Game: Star Fox 64
+Mode: Single-player

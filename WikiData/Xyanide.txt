@@ -1,0 +1,2 @@
+Game: Xyanide
+Mode: Single-player

@@ -1,0 +1,2 @@
+Game: Resident Evil 2
+Mode: Single-player

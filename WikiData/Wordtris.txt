@@ -1,0 +1,2 @@
+Game: Wordtris
+Mode: Single-player video game|Single-player

@@ -1,0 +1,2 @@
+Game: Laser Squad
+Mode: Single-player video game|Single-player

@@ -1,0 +1,2 @@
+Game: Pac-Man
+Mode: Single-player video game|Single-player
