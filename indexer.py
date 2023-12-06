@@ -62,9 +62,12 @@ def getDescTrivia(inputName):
     query = QueryParser("Name", analyzer).parse(f"{inputName}")
     s = searcher.search(query, 1)
 
-    results = searcher.doc(s.scoreDocs[0].doc)
-    print("Game description: \n", results.get("Description"))
-    print("Game Trivia: \n", results.get("Trivia"))
+    if s.scoreDocs:
+        results = searcher.doc(s.scoreDocs[0].doc)
+        print("Game description: \n", results.get("Description"))
+        print("Game Trivia: \n", results.get("Trivia"))
+    else:
+        print("No game with such name")
 
 
 # Query 2: Get game names with matching genre and perspective
@@ -79,10 +82,13 @@ def getGameNamesByGenrePerspective(genre, perspective):
 
     results = searcher.search(boolQuery.build(), Integer.MAX_VALUE)
 
-    print(f"Games with {genre} genre and {perspective} perspective:")
-    for game in results.scoreDocs:
-        doc = searcher.doc(game.doc)
-        print("\t", doc.get("Name"))
+    if results.scoreDocs:
+        print(f"Games with {genre} genre and {perspective} perspective:")
+        for game in results.scoreDocs:
+            doc = searcher.doc(game.doc)
+            print("\t", doc.get("Name"))
+    else:
+        return print("No games with matching genre and perspective")
 
 
 # Query 3: Get all games made by a developer
@@ -93,12 +99,16 @@ def getGameByDeveloper(developer):
 
     results = searcher.search(query, Integer.MAX_VALUE)
 
-    print(f"Games released by {developer}:")
-    for game in results.scoreDocs:
-        doc = searcher.doc(game.doc)
-        print(f"\t{doc.get('Name')}")
-        print(f"\t\tMobyScore - {doc.get('MobyScore')}")
-        print(f"\t\tCriticScore - {doc.get('CriticsScore')}")
+    if results.scoreDocs:
+        print(f"Games released by {developer}:")
+        for game in results.scoreDocs:
+            doc = searcher.doc(game.doc)
+            print(f"\t{doc.get('Name')}")
+            print(f"\t{doc.get('Developer')}")
+            print(f"\t\tMobyScore - {doc.get('MobyScore')}")
+            print(f"\t\tCriticScore - {doc.get('CriticsScore')}")
+    else:
+        return print("No games released by this developer.")
 
 # Query 4: Get all games with matching game mode
 def getGameByMode(mode):
@@ -108,12 +118,76 @@ def getGameByMode(mode):
 
     results = searcher.search(query, Integer.MAX_VALUE)
 
-    print(f"Games with matching game mode:")
-    for game in results.scoreDocs:
-        doc = searcher.doc(game.doc)
-        print(f"\t{doc.get('Name')}")
+    if results.scoreDocs:
+        print(f"Games with matching game mode:")
+        for game in results.scoreDocs:
+            doc = searcher.doc(game.doc)
+            print(f"\t{doc.get('Name')}")
+    else:
+        return print("No games matching this mode")
 
-# getDescTrivia("The X-Files Game (1998)")
-# getGameNamesByGenrePerspective("Action", "1st-person")
-# getGameByDeveloper("Psygnosis Limited")
-getGameByMode("Multiplayer")
+
+# Query 5: Custom query
+def searchCustomQuery(customQuery):
+    searcher = IndexSearcher(DirectoryReader.open(dir))
+
+    query = QueryParser("Name", analyzer).parse(f"{customQuery}")
+
+    results = searcher.search(query, Integer.MAX_VALUE)
+
+    if results.scoreDocs:
+        print(f"Games matching query - {customQuery}:")
+        for game in results.scoreDocs:
+            doc = searcher.doc(game.doc)
+            print(f"\t{doc.get('Name')}")
+    else:
+        return print("No matches")
+
+def main():
+    print('Please enter the number of the query you would like to perform:\n'
+          '\t1. Get game description and trivia by the name of the game\n'
+          '\t2. Get game titles matching a genre and perspective\n'
+          '\t3. Get game titles and their score by a developer\n'
+          '\t4. Get game titles by game mode\n'
+          '\t5. Custom query\n'
+          '\t6. Exit')
+    choice1 = input('Enter your choice: ')
+
+    match choice1:
+        case '1':
+            print('=========================Game a description and trivia========================')
+            game = input('Enter game name: ')
+            getDescTrivia(game)
+        case '2':
+            print('====================Games matching a genre and perspective====================')
+            genre = input('Enter a game genre: ')
+            perspective = input('Enter a game perspective: ')
+            getGameNamesByGenrePerspective(genre, perspective)
+        case '3':
+            print('=========================Games created by a developer=========================')
+            dev = input('Enter a developer name: ')
+            getGameByDeveloper(dev)
+        case '4':
+            print('==========================Games matching a game mode==========================')
+            mode = input('Enter a game mode: ')
+            getGameByMode(mode)
+        case '5':
+            print('=================================Custom query=================================')
+            print('The custom query should be in this format - ColumnName:Value AND/OR AnotherColumnName:Value...')
+            query = input('Enter a custom query: ')
+            searchCustomQuery(query)
+        case '6':
+            print('Exiting application...')
+            exit()
+
+    print('==================================Next query==================================')
+    print('Do you wih to perform another search?\n0 - No\n1 - Yes\n')
+    choice2 = input('Enter your choice: ')
+
+    match choice2:
+        case '0':
+            exit()
+        case '1':
+            main()
+
+main()
