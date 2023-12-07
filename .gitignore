@@ -2,4 +2,4 @@
 .vscode
 venv
 Wiki
-_pycache_+
+__pycache__
